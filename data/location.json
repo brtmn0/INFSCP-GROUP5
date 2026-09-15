@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B12-R6-B7",
+    "name": "Zone B Aisle 12 Rack 6 Bin 7",
+    "created_at": "2024-12-08T10:37:19Z",
+    "updated_at": "2024-12-30T06:59:18Z"
+  },
+  {
+    "id": 2,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C01-R2-B7",
+    "name": "Zone C Aisle 1 Rack 2 Bin 7",
+    "created_at": "2025-06-12T13:27:31Z",
+    "updated_at": "2025-06-26T02:12:07Z"
+  },
+  {
+    "id": 3,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B04-R3-B2",
+    "name": "Zone B Aisle 4 Rack 3 Bin 2",
+    "created_at": "2024-05-24T01:48:56Z",
+    "updated_at": "2024-06-11T13:27:46Z"
+  },
+  {
+    "id": 4,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A06-R3-B5",
+    "name": "Zone A Aisle 6 Rack 3 Bin 5",
+    "created_at": "2024-03-08T11:56:59Z",
+    "updated_at": "2024-03-30T20:13:06Z"
+  },
+  {
+    "id": 5,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A07-R1-B5",
+    "name": "Zone A Aisle 7 Rack 1 Bin 5",
+    "created_at": "2025-07-15T18:43:51Z",
+    "updated_at": "2025-08-12T20:23:41Z"
+  },
+  {
+    "id": 6,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B12-R1-B1",
+    "name": "Zone B Aisle 12 Rack 1 Bin 1",
+    "created_at": "2024-12-20T00:39:48Z",
+    "updated_at": "2025-01-03T02:49:29Z"
+  },
+  {
+    "id": 7,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A04-R1-B7",
+    "name": "Zone A Aisle 4 Rack 1 Bin 7",
+    "created_at": "2025-03-07T19:36:25Z",
+    "updated_at": "2025-03-29T20:52:05Z"
+  },
+  {
+    "id": 8,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C03-R3-B6",
+    "name": "Zone C Aisle 3 Rack 3 Bin 6",
+    "created_at": "2024-11-21T10:59:17Z",
+    "updated_at": "2024-12-04T11:02:23Z"
+  },
+  {
+    "id": 9,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A10-R6-B3",
+    "name": "Zone A Aisle 10 Rack 6 Bin 3",
+    "created_at": "2026-04-09T18:10:40Z",
+    "updated_at": "2026-04-21T16:24:11Z"
+  },
+  {
+    "id": 10,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B08-R4-B5",
+    "name": "Zone B Aisle 8 Rack 4 Bin 5",
+    "created_at": "2026-05-15T04:35:29Z",
+    "updated_at": "2026-05-25T21:27:41Z"
+  },
+  {
+    "id": 11,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C01-R2-B1",
+    "name": "Zone C Aisle 1 Rack 2 Bin 1",
+    "created_at": "2025-05-05T00:56:31Z",
+    "updated_at": "2025-05-24T13:19:58Z"
+  },
+  {
+    "id": 12,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C02-R2-B6",
+    "name": "Zone C Aisle 2 Rack 2 Bin 6",
+    "created_at": "2024-11-26T07:17:31Z",
+    "updated_at": "2024-12-20T13:56:18Z"
+  },
+  {
+    "id": 13,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-D11-R4-B3",
+    "name": "Zone D Aisle 11 Rack 4 Bin 3",
+    "created_at": "2025-02-15T11:26:54Z",
+    "updated_at": "2025-02-22T07:07:46Z"
+  },
+  {
+    "id": 14,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B12-R5-B5",
+    "name": "Zone B Aisle 12 Rack 5 Bin 5",
+    "created_at": "2026-06-27T02:56:43Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-D06-R2-B3",
+    "name": "Zone D Aisle 6 Rack 2 Bin 3",
+    "created_at": "2026-03-02T12:31:01Z",
+    "updated_at": "2026-03-26T12:30:16Z"
+  },
+  {
+    "id": 16,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A01-R1-B3",
+    "name": "Zone A Aisle 1 Rack 1 Bin 3",
+    "created_at": "2024-09-05T12:33:40Z",
+    "updated_at": "2024-09-26T01:24:47Z"
+  },
+  {
+    "id": 17,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A07-R4-B8",
+    "name": "Zone A Aisle 7 Rack 4 Bin 8",
+    "created_at": "2026-04-01T22:48:45Z",
+    "updated_at": "2026-04-14T04:43:52Z"
+  },
+  {
+    "id": 18,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A11-R6-B2",
+    "name": "Zone A Aisle 11 Rack 6 Bin 2",
+    "created_at": "2026-04-14T03:42:17Z",
+    "updated_at": "2026-04-27T03:34:42Z"
+  },
+  {
+    "id": 19,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C02-R3-B7",
+    "name": "Zone C Aisle 2 Rack 3 Bin 7",
+    "created_at": "2024-09-02T16:32:54Z",
+    "updated_at": "2024-09-24T18:10:29Z"
+  },
+  {
+    "id": 20,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A12-R6-B5",
+    "name": "Zone A Aisle 12 Rack 6 Bin 5",
+    "created_at": "2026-02-16T15:12:10Z",
+    "updated_at": "2026-02-25T08:20:50Z"
+  },
+  {
+    "id": 21,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A11-R3-B4",
+    "name": "Zone A Aisle 11 Rack 3 Bin 4",
+    "created_at": "2024-08-25T10:15:39Z",
+    "updated_at": "2024-09-12T14:54:07Z"
+  },
+  {
+    "id": 22,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B09-R5-B1",
+    "name": "Zone B Aisle 9 Rack 5 Bin 1",
+    "created_at": "2025-05-18T13:24:49Z",
+    "updated_at": "2025-06-11T07:40:49Z"
+  },
+  {
+    "id": 23,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A02-R3-B5",
+    "name": "Zone A Aisle 2 Rack 3 Bin 5",
+    "created_at": "2025-01-06T23:25:45Z",
+    "updated_at": "2025-01-09T19:55:00Z"
+  },
+  {
+    "id": 24,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B10-R1-B2",
+    "name": "Zone B Aisle 10 Rack 1 Bin 2",
+    "created_at": "2026-01-24T23:02:15Z",
+    "updated_at": "2026-01-28T08:40:33Z"
+  },
+  {
+    "id": 25,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B03-R6-B8",
+    "name": "Zone B Aisle 3 Rack 6 Bin 8",
+    "created_at": "2026-05-04T02:09:49Z",
+    "updated_at": "2026-05-12T03:33:01Z"
+  },
+  {
+    "id": 26,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C09-R5-B7",
+    "name": "Zone C Aisle 9 Rack 5 Bin 7",
+    "created_at": "2024-11-25T00:24:33Z",
+    "updated_at": "2024-12-21T05:44:04Z"
+  },
+  {
+    "id": 27,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B12-R3-B7",
+    "name": "Zone B Aisle 12 Rack 3 Bin 7",
+    "created_at": "2025-08-03T02:07:31Z",
+    "updated_at": "2025-08-24T09:32:55Z"
+  },
+  {
+    "id": 28,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-D02-R2-B4",
+    "name": "Zone D Aisle 2 Rack 2 Bin 4",
+    "created_at": "2024-04-09T11:03:30Z",
+    "updated_at": "2024-04-25T21:57:23Z"
+  },
+  {
+    "id": 29,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A10-R5-B4",
+    "name": "Zone A Aisle 10 Rack 5 Bin 4",
+    "created_at": "2024-12-08T02:17:57Z",
+    "updated_at": "2024-12-08T11:40:37Z"
+  },
+  {
+    "id": 30,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A12-R6-B1",
+    "name": "Zone A Aisle 12 Rack 6 Bin 1",
+    "created_at": "2024-12-21T15:34:06Z",
+    "updated_at": "2024-12-24T23:05:43Z"
+  },
+  {
+    "id": 31,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A06-R1-B4",
+    "name": "Zone A Aisle 6 Rack 1 Bin 4",
+    "created_at": "2025-03-08T14:23:05Z",
+    "updated_at": "2025-04-01T04:56:00Z"
+  },
+  {
+    "id": 32,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B09-R2-B8",
+    "name": "Zone B Aisle 9 Rack 2 Bin 8",
+    "created_at": "2025-01-12T11:35:37Z",
+    "updated_at": "2025-02-04T11:38:49Z"
+  },
+  {
+    "id": 33,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-D04-R1-B2",
+    "name": "Zone D Aisle 4 Rack 1 Bin 2",
+    "created_at": "2025-10-31T14:45:10Z",
+    "updated_at": "2025-11-17T20:32:21Z"
+  },
+  {
+    "id": 34,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-D07-R4-B1",
+    "name": "Zone D Aisle 7 Rack 4 Bin 1",
+    "created_at": "2024-06-01T21:17:03Z",
+    "updated_at": "2024-06-04T20:54:10Z"
+  },
+  {
+    "id": 35,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-D12-R3-B2",
+    "name": "Zone D Aisle 12 Rack 3 Bin 2",
+    "created_at": "2025-01-21T06:34:48Z",
+    "updated_at": "2025-01-30T14:47:55Z"
+  },
+  {
+    "id": 36,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B09-R4-B3",
+    "name": "Zone B Aisle 9 Rack 4 Bin 3",
+    "created_at": "2025-10-17T08:53:15Z",
+    "updated_at": "2025-10-26T07:39:59Z"
+  },
+  {
+    "id": 37,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-C08-R2-B2",
+    "name": "Zone C Aisle 8 Rack 2 Bin 2",
+    "created_at": "2025-11-19T09:06:41Z",
+    "updated_at": "2025-12-16T03:17:12Z"
+  },
+  {
+    "id": 38,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A01-R6-B1",
+    "name": "Zone A Aisle 1 Rack 6 Bin 1",
+    "created_at": "2024-05-24T21:05:17Z",
+    "updated_at": "2024-06-05T09:29:24Z"
+  },
+  {
+    "id": 39,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-B07-R4-B8",
+    "name": "Zone B Aisle 7 Rack 4 Bin 8",
+    "created_at": "2024-11-28T01:04:36Z",
+    "updated_at": "2024-12-17T13:19:20Z"
+  },
+  {
+    "id": 40,
+    "warehouse_id": 1,
+    "code": "VGH-AMB-A03-R4-B1",
+    "name": "Zone A Aisle 3 Rack 4 Bin 1",
+    "created_at": "2025-08-29T11:58:41Z",
+    "updated_at": "2025-09-11T09:57:43Z"
+  },
+  {
+    "id": 41,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D05-R4-B8",
+    "name": "Zone D Aisle 5 Rack 4 Bin 8",
+    "created_at": "2024-08-28T11:14:38Z",
+    "updated_at": "2024-09-06T17:29:27Z"
+  },
+  {
+    "id": 42,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C04-R1-B1",
+    "name": "Zone C Aisle 4 Rack 1 Bin 1",
+    "created_at": "2025-05-02T04:02:05Z",
+    "updated_at": "2025-05-04T23:38:13Z"
+  },
+  {
+    "id": 43,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A10-R4-B3",
+    "name": "Zone A Aisle 10 Rack 4 Bin 3",
+    "created_at": "2024-03-29T08:37:27Z",
+    "updated_at": "2024-04-23T01:17:14Z"
+  },
+  {
+    "id": 44,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A03-R1-B2",
+    "name": "Zone A Aisle 3 Rack 1 Bin 2",
+    "created_at": "2024-12-31T09:02:12Z",
+    "updated_at": "2025-01-20T00:28:09Z"
+  },
+  {
+    "id": 45,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A10-R2-B1",
+    "name": "Zone A Aisle 10 Rack 2 Bin 1",
+    "created_at": "2024-05-07T08:33:46Z",
+    "updated_at": "2024-05-27T17:59:42Z"
+  },
+  {
+    "id": 46,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C05-R2-B6",
+    "name": "Zone C Aisle 5 Rack 2 Bin 6",
+    "created_at": "2025-01-05T18:51:26Z",
+    "updated_at": "2025-01-18T17:19:14Z"
+  },
+  {
+    "id": 47,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D03-R6-B5",
+    "name": "Zone D Aisle 3 Rack 6 Bin 5",
+    "created_at": "2025-12-11T06:34:03Z",
+    "updated_at": "2025-12-26T15:56:26Z"
+  },
+  {
+    "id": 48,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A01-R4-B2",
+    "name": "Zone A Aisle 1 Rack 4 Bin 2",
+    "created_at": "2024-04-23T19:21:27Z",
+    "updated_at": "2024-05-19T22:44:49Z"
+  },
+  {
+    "id": 49,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B09-R3-B3",
+    "name": "Zone B Aisle 9 Rack 3 Bin 3",
+    "created_at": "2025-06-26T03:59:32Z",
+    "updated_at": "2025-06-29T13:08:23Z"
+  },
+  {
+    "id": 50,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B06-R3-B3",
+    "name": "Zone B Aisle 6 Rack 3 Bin 3",
+    "created_at": "2025-11-11T16:42:17Z",
+    "updated_at": "2025-12-08T02:35:58Z"
+  },
+  {
+    "id": 51,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C10-R6-B1",
+    "name": "Zone C Aisle 10 Rack 6 Bin 1",
+    "created_at": "2026-05-11T13:04:18Z",
+    "updated_at": "2026-05-26T02:52:23Z"
+  },
+  {
+    "id": 52,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A03-R3-B2",
+    "name": "Zone A Aisle 3 Rack 3 Bin 2",
+    "created_at": "2024-06-15T06:35:25Z",
+    "updated_at": "2024-07-12T04:08:33Z"
+  },
+  {
+    "id": 53,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B05-R3-B4",
+    "name": "Zone B Aisle 5 Rack 3 Bin 4",
+    "created_at": "2025-06-16T15:30:13Z",
+    "updated_at": "2025-06-26T13:42:42Z"
+  },
+  {
+    "id": 54,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C09-R4-B5",
+    "name": "Zone C Aisle 9 Rack 4 Bin 5",
+    "created_at": "2024-03-19T21:55:12Z",
+    "updated_at": "2024-03-24T10:27:19Z"
+  },
+  {
+    "id": 55,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D05-R1-B1",
+    "name": "Zone D Aisle 5 Rack 1 Bin 1",
+    "created_at": "2025-06-02T03:53:20Z",
+    "updated_at": "2025-06-08T13:18:17Z"
+  },
+  {
+    "id": 56,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C03-R6-B8",
+    "name": "Zone C Aisle 3 Rack 6 Bin 8",
+    "created_at": "2026-05-07T00:08:12Z",
+    "updated_at": "2026-05-27T19:25:40Z"
+  },
+  {
+    "id": 57,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A02-R1-B3",
+    "name": "Zone A Aisle 2 Rack 1 Bin 3",
+    "created_at": "2026-04-27T13:04:49Z",
+    "updated_at": "2026-04-29T08:03:21Z"
+  },
+  {
+    "id": 58,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C10-R5-B3",
+    "name": "Zone C Aisle 10 Rack 5 Bin 3",
+    "created_at": "2025-10-29T15:36:36Z",
+    "updated_at": "2025-11-04T21:05:41Z"
+  },
+  {
+    "id": 59,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A05-R3-B1",
+    "name": "Zone A Aisle 5 Rack 3 Bin 1",
+    "created_at": "2025-07-09T20:05:42Z",
+    "updated_at": "2025-07-20T01:51:06Z"
+  },
+  {
+    "id": 60,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B11-R1-B6",
+    "name": "Zone B Aisle 11 Rack 1 Bin 6",
+    "created_at": "2026-05-19T17:58:13Z",
+    "updated_at": "2026-06-08T12:26:03Z"
+  },
+  {
+    "id": 61,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B04-R2-B3",
+    "name": "Zone B Aisle 4 Rack 2 Bin 3",
+    "created_at": "2025-10-02T11:26:59Z",
+    "updated_at": "2025-10-03T17:19:40Z"
+  },
+  {
+    "id": 62,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B12-R3-B7",
+    "name": "Zone B Aisle 12 Rack 3 Bin 7",
+    "created_at": "2025-01-20T12:20:43Z",
+    "updated_at": "2025-02-02T12:11:47Z"
+  },
+  {
+    "id": 63,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B12-R1-B7",
+    "name": "Zone B Aisle 12 Rack 1 Bin 7",
+    "created_at": "2024-03-01T03:45:28Z",
+    "updated_at": "2024-03-24T01:09:05Z"
+  },
+  {
+    "id": 64,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B04-R4-B6",
+    "name": "Zone B Aisle 4 Rack 4 Bin 6",
+    "created_at": "2025-04-19T02:20:24Z",
+    "updated_at": "2025-04-30T04:30:28Z"
+  },
+  {
+    "id": 65,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B01-R6-B4",
+    "name": "Zone B Aisle 1 Rack 6 Bin 4",
+    "created_at": "2025-09-10T23:53:18Z",
+    "updated_at": "2025-09-26T23:20:28Z"
+  },
+  {
+    "id": 66,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C02-R3-B6",
+    "name": "Zone C Aisle 2 Rack 3 Bin 6",
+    "created_at": "2026-03-02T08:01:12Z",
+    "updated_at": "2026-03-21T18:40:44Z"
+  },
+  {
+    "id": 67,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C01-R1-B5",
+    "name": "Zone C Aisle 1 Rack 1 Bin 5",
+    "created_at": "2024-10-04T09:29:26Z",
+    "updated_at": "2024-11-01T14:55:35Z"
+  },
+  {
+    "id": 68,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C01-R1-B7",
+    "name": "Zone C Aisle 1 Rack 1 Bin 7",
+    "created_at": "2025-06-21T00:08:58Z",
+    "updated_at": "2025-07-06T06:36:36Z"
+  },
+  {
+    "id": 69,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D10-R5-B2",
+    "name": "Zone D Aisle 10 Rack 5 Bin 2",
+    "created_at": "2025-08-21T09:07:35Z",
+    "updated_at": "2025-09-18T09:54:00Z"
+  },
+  {
+    "id": 70,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B05-R1-B7",
+    "name": "Zone B Aisle 5 Rack 1 Bin 7",
+    "created_at": "2024-01-03T15:03:19Z",
+    "updated_at": "2024-01-28T21:48:22Z"
+  },
+  {
+    "id": 71,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B06-R4-B2",
+    "name": "Zone B Aisle 6 Rack 4 Bin 2",
+    "created_at": "2025-05-27T22:44:58Z",
+    "updated_at": "2025-06-12T05:29:15Z"
+  },
+  {
+    "id": 72,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-A12-R3-B5",
+    "name": "Zone A Aisle 12 Rack 3 Bin 5",
+    "created_at": "2025-09-26T09:59:28Z",
+    "updated_at": "2025-10-12T07:01:18Z"
+  },
+  {
+    "id": 73,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D12-R3-B3",
+    "name": "Zone D Aisle 12 Rack 3 Bin 3",
+    "created_at": "2024-10-25T00:19:01Z",
+    "updated_at": "2024-11-14T11:10:20Z"
+  },
+  {
+    "id": 74,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D11-R6-B3",
+    "name": "Zone D Aisle 11 Rack 6 Bin 3",
+    "created_at": "2026-06-03T01:46:54Z",
+    "updated_at": "2026-06-17T17:24:49Z"
+  },
+  {
+    "id": 75,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D09-R1-B5",
+    "name": "Zone D Aisle 9 Rack 1 Bin 5",
+    "created_at": "2025-03-21T16:55:07Z",
+    "updated_at": "2025-03-31T22:47:57Z"
+  },
+  {
+    "id": 76,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D10-R5-B6",
+    "name": "Zone D Aisle 10 Rack 5 Bin 6",
+    "created_at": "2025-12-23T08:00:58Z",
+    "updated_at": "2026-01-13T19:44:02Z"
+  },
+  {
+    "id": 77,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-D11-R2-B8",
+    "name": "Zone D Aisle 11 Rack 2 Bin 8",
+    "created_at": "2024-09-20T14:33:13Z",
+    "updated_at": "2024-09-24T18:20:51Z"
+  },
+  {
+    "id": 78,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C09-R6-B6",
+    "name": "Zone C Aisle 9 Rack 6 Bin 6",
+    "created_at": "2024-05-25T01:43:37Z",
+    "updated_at": "2024-06-05T12:22:07Z"
+  },
+  {
+    "id": 79,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-C04-R2-B3",
+    "name": "Zone C Aisle 4 Rack 2 Bin 3",
+    "created_at": "2024-02-07T22:38:40Z",
+    "updated_at": "2024-02-10T05:29:14Z"
+  },
+  {
+    "id": 80,
+    "warehouse_id": 2,
+    "code": "WDN-AMB-B08-R5-B2",
+    "name": "Zone B Aisle 8 Rack 5 Bin 2",
+    "created_at": "2025-12-08T11:08:43Z",
+    "updated_at": "2025-12-28T15:00:14Z"
+  },
+  {
+    "id": 81,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B12-R6-B7",
+    "name": "Zone B Aisle 12 Rack 6 Bin 7",
+    "created_at": "2026-02-06T23:43:00Z",
+    "updated_at": "2026-02-26T10:20:45Z"
+  },
+  {
+    "id": 82,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B03-R6-B1",
+    "name": "Zone B Aisle 3 Rack 6 Bin 1",
+    "created_at": "2024-06-14T13:51:44Z",
+    "updated_at": "2024-07-05T06:11:36Z"
+  },
+  {
+    "id": 83,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B03-R6-B8",
+    "name": "Zone B Aisle 3 Rack 6 Bin 8",
+    "created_at": "2024-03-19T00:16:37Z",
+    "updated_at": "2024-04-15T02:42:06Z"
+  },
+  {
+    "id": 84,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B02-R4-B3",
+    "name": "Zone B Aisle 2 Rack 4 Bin 3",
+    "created_at": "2025-12-22T19:09:19Z",
+    "updated_at": "2026-01-17T14:58:07Z"
+  },
+  {
+    "id": 85,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C08-R5-B7",
+    "name": "Zone C Aisle 8 Rack 5 Bin 7",
+    "created_at": "2026-05-01T02:08:48Z",
+    "updated_at": "2026-05-22T18:40:25Z"
+  },
+  {
+    "id": 86,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B12-R4-B8",
+    "name": "Zone B Aisle 12 Rack 4 Bin 8",
+    "created_at": "2025-02-06T15:21:40Z",
+    "updated_at": "2025-02-18T16:24:58Z"
+  },
+  {
+    "id": 87,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C09-R4-B4",
+    "name": "Zone C Aisle 9 Rack 4 Bin 4",
+    "created_at": "2025-03-02T13:44:05Z",
+    "updated_at": "2025-03-23T23:13:24Z"
+  },
+  {
+    "id": 88,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-A12-R3-B4",
+    "name": "Zone A Aisle 12 Rack 3 Bin 4",
+    "created_at": "2025-02-26T02:16:24Z",
+    "updated_at": "2025-03-14T10:33:50Z"
+  },
+  {
+    "id": 89,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C09-R1-B3",
+    "name": "Zone C Aisle 9 Rack 1 Bin 3",
+    "created_at": "2024-08-22T07:22:28Z",
+    "updated_at": "2024-09-02T13:48:48Z"
+  },
+  {
+    "id": 90,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D12-R2-B4",
+    "name": "Zone D Aisle 12 Rack 2 Bin 4",
+    "created_at": "2024-04-09T18:37:30Z",
+    "updated_at": "2024-04-29T22:58:52Z"
+  },
+  {
+    "id": 91,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D06-R5-B8",
+    "name": "Zone D Aisle 6 Rack 5 Bin 8",
+    "created_at": "2025-10-07T21:11:13Z",
+    "updated_at": "2025-10-10T22:43:54Z"
+  },
+  {
+    "id": 92,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B07-R4-B1",
+    "name": "Zone B Aisle 7 Rack 4 Bin 1",
+    "created_at": "2026-06-13T07:17:30Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 93,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D01-R3-B5",
+    "name": "Zone D Aisle 1 Rack 3 Bin 5",
+    "created_at": "2025-08-28T19:45:21Z",
+    "updated_at": "2025-09-18T04:57:03Z"
+  },
+  {
+    "id": 94,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B08-R2-B5",
+    "name": "Zone B Aisle 8 Rack 2 Bin 5",
+    "created_at": "2025-11-08T01:08:34Z",
+    "updated_at": "2025-12-01T15:57:24Z"
+  },
+  {
+    "id": 95,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-A07-R3-B7",
+    "name": "Zone A Aisle 7 Rack 3 Bin 7",
+    "created_at": "2024-09-13T09:18:48Z",
+    "updated_at": "2024-10-06T02:51:44Z"
+  },
+  {
+    "id": 96,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B10-R5-B1",
+    "name": "Zone B Aisle 10 Rack 5 Bin 1",
+    "created_at": "2025-09-04T02:08:23Z",
+    "updated_at": "2025-10-02T20:44:41Z"
+  },
+  {
+    "id": 97,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-A02-R6-B7",
+    "name": "Zone A Aisle 2 Rack 6 Bin 7",
+    "created_at": "2024-07-29T19:14:36Z",
+    "updated_at": "2024-08-21T06:09:39Z"
+  },
+  {
+    "id": 98,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B01-R3-B7",
+    "name": "Zone B Aisle 1 Rack 3 Bin 7",
+    "created_at": "2025-05-23T12:35:31Z",
+    "updated_at": "2025-06-02T20:11:38Z"
+  },
+  {
+    "id": 99,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D06-R3-B7",
+    "name": "Zone D Aisle 6 Rack 3 Bin 7",
+    "created_at": "2025-03-08T06:09:30Z",
+    "updated_at": "2025-03-28T18:19:01Z"
+  },
+  {
+    "id": 100,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C02-R4-B1",
+    "name": "Zone C Aisle 2 Rack 4 Bin 1",
+    "created_at": "2026-04-17T22:59:59Z",
+    "updated_at": "2026-04-20T12:41:01Z"
+  },
+  {
+    "id": 101,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C04-R6-B2",
+    "name": "Zone C Aisle 4 Rack 6 Bin 2",
+    "created_at": "2024-03-03T12:55:55Z",
+    "updated_at": "2024-03-05T02:05:04Z"
+  },
+  {
+    "id": 102,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B04-R1-B3",
+    "name": "Zone B Aisle 4 Rack 1 Bin 3",
+    "created_at": "2025-01-05T13:36:00Z",
+    "updated_at": "2025-01-11T17:39:29Z"
+  },
+  {
+    "id": 103,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D11-R1-B4",
+    "name": "Zone D Aisle 11 Rack 1 Bin 4",
+    "created_at": "2025-12-23T09:43:24Z",
+    "updated_at": "2026-01-04T21:16:07Z"
+  },
+  {
+    "id": 104,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C03-R5-B2",
+    "name": "Zone C Aisle 3 Rack 5 Bin 2",
+    "created_at": "2024-09-11T09:37:54Z",
+    "updated_at": "2024-09-26T13:01:05Z"
+  },
+  {
+    "id": 105,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-A10-R1-B5",
+    "name": "Zone A Aisle 10 Rack 1 Bin 5",
+    "created_at": "2026-06-13T11:15:28Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 106,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D12-R2-B2",
+    "name": "Zone D Aisle 12 Rack 2 Bin 2",
+    "created_at": "2025-01-12T06:04:52Z",
+    "updated_at": "2025-01-17T05:48:17Z"
+  },
+  {
+    "id": 107,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C11-R5-B2",
+    "name": "Zone C Aisle 11 Rack 5 Bin 2",
+    "created_at": "2026-05-29T03:29:41Z",
+    "updated_at": "2026-05-31T04:20:37Z"
+  },
+  {
+    "id": 108,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C09-R4-B6",
+    "name": "Zone C Aisle 9 Rack 4 Bin 6",
+    "created_at": "2024-04-17T02:53:36Z",
+    "updated_at": "2024-05-11T17:22:49Z"
+  },
+  {
+    "id": 109,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C01-R4-B8",
+    "name": "Zone C Aisle 1 Rack 4 Bin 8",
+    "created_at": "2024-06-12T22:46:27Z",
+    "updated_at": "2024-07-04T00:51:55Z"
+  },
+  {
+    "id": 110,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C11-R4-B3",
+    "name": "Zone C Aisle 11 Rack 4 Bin 3",
+    "created_at": "2025-11-07T12:08:15Z",
+    "updated_at": "2025-11-16T02:21:06Z"
+  },
+  {
+    "id": 111,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C10-R5-B8",
+    "name": "Zone C Aisle 10 Rack 5 Bin 8",
+    "created_at": "2025-12-23T03:45:01Z",
+    "updated_at": "2026-01-13T08:13:52Z"
+  },
+  {
+    "id": 112,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C06-R2-B2",
+    "name": "Zone C Aisle 6 Rack 2 Bin 2",
+    "created_at": "2025-03-09T07:11:55Z",
+    "updated_at": "2025-03-31T05:25:15Z"
+  },
+  {
+    "id": 113,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B08-R5-B7",
+    "name": "Zone B Aisle 8 Rack 5 Bin 7",
+    "created_at": "2025-06-06T13:46:30Z",
+    "updated_at": "2025-06-08T00:12:46Z"
+  },
+  {
+    "id": 114,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-D06-R2-B8",
+    "name": "Zone D Aisle 6 Rack 2 Bin 8",
+    "created_at": "2024-11-25T12:24:04Z",
+    "updated_at": "2024-12-12T18:48:07Z"
+  },
+  {
+    "id": 115,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C06-R3-B5",
+    "name": "Zone C Aisle 6 Rack 3 Bin 5",
+    "created_at": "2026-05-13T09:23:29Z",
+    "updated_at": "2026-05-13T22:13:05Z"
+  },
+  {
+    "id": 116,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B02-R2-B7",
+    "name": "Zone B Aisle 2 Rack 2 Bin 7",
+    "created_at": "2026-01-28T23:30:08Z",
+    "updated_at": "2026-02-24T23:19:45Z"
+  },
+  {
+    "id": 117,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-B12-R4-B8",
+    "name": "Zone B Aisle 12 Rack 4 Bin 8",
+    "created_at": "2025-11-27T05:09:29Z",
+    "updated_at": "2025-11-28T02:14:52Z"
+  },
+  {
+    "id": 118,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-A05-R2-B7",
+    "name": "Zone A Aisle 5 Rack 2 Bin 7",
+    "created_at": "2025-01-12T23:04:26Z",
+    "updated_at": "2025-01-27T20:49:47Z"
+  },
+  {
+    "id": 119,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C08-R5-B6",
+    "name": "Zone C Aisle 8 Rack 5 Bin 6",
+    "created_at": "2025-10-22T23:55:54Z",
+    "updated_at": "2025-11-18T18:10:50Z"
+  },
+  {
+    "id": 120,
+    "warehouse_id": 3,
+    "code": "BDA-AMB-C06-R6-B8",
+    "name": "Zone C Aisle 6 Rack 6 Bin 8",
+    "created_at": "2025-02-24T20:29:47Z",
+    "updated_at": "2025-03-11T18:44:17Z"
+  },
+  {
+    "id": 121,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C04-R1-B4",
+    "name": "Zone C Aisle 4 Rack 1 Bin 4",
+    "created_at": "2025-05-05T04:28:48Z",
+    "updated_at": "2025-05-11T00:46:16Z"
+  },
+  {
+    "id": 122,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B04-R2-B8",
+    "name": "Zone B Aisle 4 Rack 2 Bin 8",
+    "created_at": "2025-03-05T12:39:11Z",
+    "updated_at": "2025-04-03T04:34:17Z"
+  },
+  {
+    "id": 123,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C02-R2-B5",
+    "name": "Zone C Aisle 2 Rack 2 Bin 5",
+    "created_at": "2024-12-19T09:11:13Z",
+    "updated_at": "2025-01-05T22:38:37Z"
+  },
+  {
+    "id": 124,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B05-R1-B3",
+    "name": "Zone B Aisle 5 Rack 1 Bin 3",
+    "created_at": "2025-03-02T03:04:03Z",
+    "updated_at": "2025-03-04T09:05:49Z"
+  },
+  {
+    "id": 125,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A09-R3-B3",
+    "name": "Zone A Aisle 9 Rack 3 Bin 3",
+    "created_at": "2026-02-01T13:17:03Z",
+    "updated_at": "2026-02-06T13:48:26Z"
+  },
+  {
+    "id": 126,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A10-R3-B8",
+    "name": "Zone A Aisle 10 Rack 3 Bin 8",
+    "created_at": "2026-01-13T15:45:33Z",
+    "updated_at": "2026-02-04T01:56:33Z"
+  },
+  {
+    "id": 127,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C03-R1-B5",
+    "name": "Zone C Aisle 3 Rack 1 Bin 5",
+    "created_at": "2026-01-12T03:02:06Z",
+    "updated_at": "2026-01-17T16:57:22Z"
+  },
+  {
+    "id": 128,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A07-R4-B2",
+    "name": "Zone A Aisle 7 Rack 4 Bin 2",
+    "created_at": "2026-06-15T08:54:28Z",
+    "updated_at": "2026-06-18T00:22:00Z"
+  },
+  {
+    "id": 129,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B03-R5-B5",
+    "name": "Zone B Aisle 3 Rack 5 Bin 5",
+    "created_at": "2024-05-12T07:46:27Z",
+    "updated_at": "2024-05-24T09:56:15Z"
+  },
+  {
+    "id": 130,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A09-R4-B4",
+    "name": "Zone A Aisle 9 Rack 4 Bin 4",
+    "created_at": "2026-03-22T18:54:58Z",
+    "updated_at": "2026-04-10T07:05:19Z"
+  },
+  {
+    "id": 131,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D08-R3-B7",
+    "name": "Zone D Aisle 8 Rack 3 Bin 7",
+    "created_at": "2025-04-19T09:24:02Z",
+    "updated_at": "2025-05-17T00:54:06Z"
+  },
+  {
+    "id": 132,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A10-R6-B2",
+    "name": "Zone A Aisle 10 Rack 6 Bin 2",
+    "created_at": "2024-11-18T18:53:40Z",
+    "updated_at": "2024-11-29T01:45:23Z"
+  },
+  {
+    "id": 133,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C11-R1-B3",
+    "name": "Zone C Aisle 11 Rack 1 Bin 3",
+    "created_at": "2025-01-07T14:49:19Z",
+    "updated_at": "2025-01-16T02:19:45Z"
+  },
+  {
+    "id": 134,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A03-R1-B7",
+    "name": "Zone A Aisle 3 Rack 1 Bin 7",
+    "created_at": "2025-11-30T19:59:43Z",
+    "updated_at": "2025-12-29T16:50:07Z"
+  },
+  {
+    "id": 135,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D05-R1-B4",
+    "name": "Zone D Aisle 5 Rack 1 Bin 4",
+    "created_at": "2025-03-23T13:19:43Z",
+    "updated_at": "2025-04-06T07:43:09Z"
+  },
+  {
+    "id": 136,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D02-R6-B4",
+    "name": "Zone D Aisle 2 Rack 6 Bin 4",
+    "created_at": "2025-02-14T23:18:40Z",
+    "updated_at": "2025-03-15T15:27:56Z"
+  },
+  {
+    "id": 137,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B07-R1-B4",
+    "name": "Zone B Aisle 7 Rack 1 Bin 4",
+    "created_at": "2024-08-19T10:43:38Z",
+    "updated_at": "2024-09-01T09:12:41Z"
+  },
+  {
+    "id": 138,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B02-R1-B3",
+    "name": "Zone B Aisle 2 Rack 1 Bin 3",
+    "created_at": "2025-04-22T20:35:58Z",
+    "updated_at": "2025-05-21T18:52:33Z"
+  },
+  {
+    "id": 139,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C08-R1-B8",
+    "name": "Zone C Aisle 8 Rack 1 Bin 8",
+    "created_at": "2025-04-17T09:20:28Z",
+    "updated_at": "2025-05-06T23:17:51Z"
+  },
+  {
+    "id": 140,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C09-R5-B8",
+    "name": "Zone C Aisle 9 Rack 5 Bin 8",
+    "created_at": "2025-11-11T00:50:00Z",
+    "updated_at": "2025-11-14T23:33:17Z"
+  },
+  {
+    "id": 141,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A07-R6-B6",
+    "name": "Zone A Aisle 7 Rack 6 Bin 6",
+    "created_at": "2025-01-23T22:23:31Z",
+    "updated_at": "2025-01-25T05:31:36Z"
+  },
+  {
+    "id": 142,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A04-R6-B1",
+    "name": "Zone A Aisle 4 Rack 6 Bin 1",
+    "created_at": "2025-02-22T16:05:57Z",
+    "updated_at": "2025-03-22T16:28:32Z"
+  },
+  {
+    "id": 143,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A03-R4-B8",
+    "name": "Zone A Aisle 3 Rack 4 Bin 8",
+    "created_at": "2025-03-08T02:25:43Z",
+    "updated_at": "2025-03-16T22:52:43Z"
+  },
+  {
+    "id": 144,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D11-R4-B2",
+    "name": "Zone D Aisle 11 Rack 4 Bin 2",
+    "created_at": "2025-12-31T03:15:27Z",
+    "updated_at": "2026-01-17T01:39:41Z"
+  },
+  {
+    "id": 145,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D06-R3-B2",
+    "name": "Zone D Aisle 6 Rack 3 Bin 2",
+    "created_at": "2024-09-06T19:59:06Z",
+    "updated_at": "2024-09-22T21:14:02Z"
+  },
+  {
+    "id": 146,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D12-R4-B5",
+    "name": "Zone D Aisle 12 Rack 4 Bin 5",
+    "created_at": "2025-09-14T01:56:31Z",
+    "updated_at": "2025-10-10T19:51:03Z"
+  },
+  {
+    "id": 147,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A08-R1-B6",
+    "name": "Zone A Aisle 8 Rack 1 Bin 6",
+    "created_at": "2025-01-27T02:06:40Z",
+    "updated_at": "2025-02-11T19:45:08Z"
+  },
+  {
+    "id": 148,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A07-R5-B1",
+    "name": "Zone A Aisle 7 Rack 5 Bin 1",
+    "created_at": "2026-04-22T21:21:19Z",
+    "updated_at": "2026-05-15T08:35:48Z"
+  },
+  {
+    "id": 149,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D01-R2-B6",
+    "name": "Zone D Aisle 1 Rack 2 Bin 6",
+    "created_at": "2026-02-13T09:10:11Z",
+    "updated_at": "2026-03-06T21:11:05Z"
+  },
+  {
+    "id": 150,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A04-R3-B3",
+    "name": "Zone A Aisle 4 Rack 3 Bin 3",
+    "created_at": "2025-03-23T10:30:17Z",
+    "updated_at": "2025-04-13T17:56:49Z"
+  },
+  {
+    "id": 151,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D02-R1-B4",
+    "name": "Zone D Aisle 2 Rack 1 Bin 4",
+    "created_at": "2024-09-03T00:45:57Z",
+    "updated_at": "2024-09-18T03:48:57Z"
+  },
+  {
+    "id": 152,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A09-R4-B2",
+    "name": "Zone A Aisle 9 Rack 4 Bin 2",
+    "created_at": "2024-12-15T01:26:51Z",
+    "updated_at": "2024-12-20T14:38:21Z"
+  },
+  {
+    "id": 153,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D02-R6-B3",
+    "name": "Zone D Aisle 2 Rack 6 Bin 3",
+    "created_at": "2026-02-13T04:47:07Z",
+    "updated_at": "2026-02-27T09:49:43Z"
+  },
+  {
+    "id": 154,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C07-R4-B8",
+    "name": "Zone C Aisle 7 Rack 4 Bin 8",
+    "created_at": "2025-01-13T14:56:48Z",
+    "updated_at": "2025-02-04T20:08:29Z"
+  },
+  {
+    "id": 155,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B07-R2-B3",
+    "name": "Zone B Aisle 7 Rack 2 Bin 3",
+    "created_at": "2024-04-18T10:42:30Z",
+    "updated_at": "2024-05-01T21:33:35Z"
+  },
+  {
+    "id": 156,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D06-R5-B5",
+    "name": "Zone D Aisle 6 Rack 5 Bin 5",
+    "created_at": "2024-01-04T23:38:23Z",
+    "updated_at": "2024-01-18T18:10:15Z"
+  },
+  {
+    "id": 157,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-C10-R5-B8",
+    "name": "Zone C Aisle 10 Rack 5 Bin 8",
+    "created_at": "2024-08-18T20:02:19Z",
+    "updated_at": "2024-09-09T13:18:14Z"
+  },
+  {
+    "id": 158,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-D06-R3-B7",
+    "name": "Zone D Aisle 6 Rack 3 Bin 7",
+    "created_at": "2025-12-08T08:28:39Z",
+    "updated_at": "2025-12-24T00:22:31Z"
+  },
+  {
+    "id": 159,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-B12-R2-B7",
+    "name": "Zone B Aisle 12 Rack 2 Bin 7",
+    "created_at": "2024-12-28T19:50:20Z",
+    "updated_at": "2025-01-17T19:25:35Z"
+  },
+  {
+    "id": 160,
+    "warehouse_id": 4,
+    "code": "BLN-AMB-A06-R6-B8",
+    "name": "Zone A Aisle 6 Rack 6 Bin 8",
+    "created_at": "2025-08-15T05:19:38Z",
+    "updated_at": "2025-09-03T00:08:29Z"
+  },
+  {
+    "id": 161,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B08-R1-B3",
+    "name": "Zone B Aisle 8 Rack 1 Bin 3",
+    "created_at": "2026-02-19T06:46:16Z",
+    "updated_at": "2026-03-19T23:22:52Z"
+  },
+  {
+    "id": 162,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C02-R4-B2",
+    "name": "Zone C Aisle 2 Rack 4 Bin 2",
+    "created_at": "2026-03-28T00:52:39Z",
+    "updated_at": "2026-04-19T06:14:14Z"
+  },
+  {
+    "id": 163,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A12-R2-B7",
+    "name": "Zone A Aisle 12 Rack 2 Bin 7",
+    "created_at": "2024-08-27T19:00:12Z",
+    "updated_at": "2024-08-31T11:11:04Z"
+  },
+  {
+    "id": 164,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D05-R3-B7",
+    "name": "Zone D Aisle 5 Rack 3 Bin 7",
+    "created_at": "2024-05-04T18:22:19Z",
+    "updated_at": "2024-05-20T18:10:42Z"
+  },
+  {
+    "id": 165,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D06-R6-B8",
+    "name": "Zone D Aisle 6 Rack 6 Bin 8",
+    "created_at": "2026-04-20T10:32:20Z",
+    "updated_at": "2026-04-22T05:21:51Z"
+  },
+  {
+    "id": 166,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A04-R6-B5",
+    "name": "Zone A Aisle 4 Rack 6 Bin 5",
+    "created_at": "2024-12-19T09:18:11Z",
+    "updated_at": "2024-12-23T19:36:09Z"
+  },
+  {
+    "id": 167,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D02-R6-B2",
+    "name": "Zone D Aisle 2 Rack 6 Bin 2",
+    "created_at": "2025-11-20T05:32:07Z",
+    "updated_at": "2025-11-28T08:21:51Z"
+  },
+  {
+    "id": 168,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C01-R1-B6",
+    "name": "Zone C Aisle 1 Rack 1 Bin 6",
+    "created_at": "2024-03-28T04:16:35Z",
+    "updated_at": "2024-04-11T11:04:28Z"
+  },
+  {
+    "id": 169,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C06-R4-B3",
+    "name": "Zone C Aisle 6 Rack 4 Bin 3",
+    "created_at": "2025-01-14T08:20:24Z",
+    "updated_at": "2025-02-09T04:11:37Z"
+  },
+  {
+    "id": 170,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D10-R6-B3",
+    "name": "Zone D Aisle 10 Rack 6 Bin 3",
+    "created_at": "2024-09-21T01:26:59Z",
+    "updated_at": "2024-09-29T14:25:13Z"
+  },
+  {
+    "id": 171,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A10-R4-B4",
+    "name": "Zone A Aisle 10 Rack 4 Bin 4",
+    "created_at": "2026-02-12T02:22:47Z",
+    "updated_at": "2026-03-12T10:48:25Z"
+  },
+  {
+    "id": 172,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B04-R4-B5",
+    "name": "Zone B Aisle 4 Rack 4 Bin 5",
+    "created_at": "2025-12-14T22:01:48Z",
+    "updated_at": "2025-12-27T08:30:25Z"
+  },
+  {
+    "id": 173,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A08-R3-B3",
+    "name": "Zone A Aisle 8 Rack 3 Bin 3",
+    "created_at": "2024-04-24T17:46:16Z",
+    "updated_at": "2024-05-16T05:25:24Z"
+  },
+  {
+    "id": 174,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C10-R3-B7",
+    "name": "Zone C Aisle 10 Rack 3 Bin 7",
+    "created_at": "2025-01-23T12:20:15Z",
+    "updated_at": "2025-02-14T17:35:23Z"
+  },
+  {
+    "id": 175,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C04-R4-B8",
+    "name": "Zone C Aisle 4 Rack 4 Bin 8",
+    "created_at": "2024-06-14T16:19:19Z",
+    "updated_at": "2024-06-26T05:41:11Z"
+  },
+  {
+    "id": 176,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D10-R3-B5",
+    "name": "Zone D Aisle 10 Rack 3 Bin 5",
+    "created_at": "2025-04-03T15:00:01Z",
+    "updated_at": "2025-04-04T17:33:42Z"
+  },
+  {
+    "id": 177,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D05-R1-B1",
+    "name": "Zone D Aisle 5 Rack 1 Bin 1",
+    "created_at": "2026-02-10T15:20:07Z",
+    "updated_at": "2026-02-24T13:46:32Z"
+  },
+  {
+    "id": 178,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B10-R3-B4",
+    "name": "Zone B Aisle 10 Rack 3 Bin 4",
+    "created_at": "2024-10-22T08:38:03Z",
+    "updated_at": "2024-11-03T13:38:07Z"
+  },
+  {
+    "id": 179,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B11-R1-B1",
+    "name": "Zone B Aisle 11 Rack 1 Bin 1",
+    "created_at": "2025-04-24T21:51:09Z",
+    "updated_at": "2025-05-16T08:26:55Z"
+  },
+  {
+    "id": 180,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A10-R3-B3",
+    "name": "Zone A Aisle 10 Rack 3 Bin 3",
+    "created_at": "2024-05-20T00:24:56Z",
+    "updated_at": "2024-06-03T09:14:38Z"
+  },
+  {
+    "id": 181,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C12-R4-B3",
+    "name": "Zone C Aisle 12 Rack 4 Bin 3",
+    "created_at": "2024-11-07T22:10:21Z",
+    "updated_at": "2024-11-14T09:08:59Z"
+  },
+  {
+    "id": 182,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C09-R5-B5",
+    "name": "Zone C Aisle 9 Rack 5 Bin 5",
+    "created_at": "2024-09-12T14:39:38Z",
+    "updated_at": "2024-09-25T03:03:08Z"
+  },
+  {
+    "id": 183,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D05-R6-B6",
+    "name": "Zone D Aisle 5 Rack 6 Bin 6",
+    "created_at": "2024-06-27T21:50:16Z",
+    "updated_at": "2024-07-20T16:29:00Z"
+  },
+  {
+    "id": 184,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A03-R2-B7",
+    "name": "Zone A Aisle 3 Rack 2 Bin 7",
+    "created_at": "2026-05-15T18:07:13Z",
+    "updated_at": "2026-06-02T13:16:44Z"
+  },
+  {
+    "id": 185,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A07-R1-B5",
+    "name": "Zone A Aisle 7 Rack 1 Bin 5",
+    "created_at": "2026-04-13T12:51:56Z",
+    "updated_at": "2026-04-19T13:51:24Z"
+  },
+  {
+    "id": 186,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D06-R6-B5",
+    "name": "Zone D Aisle 6 Rack 6 Bin 5",
+    "created_at": "2026-06-27T01:58:47Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 187,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C02-R6-B4",
+    "name": "Zone C Aisle 2 Rack 6 Bin 4",
+    "created_at": "2026-01-02T09:55:54Z",
+    "updated_at": "2026-01-03T16:05:14Z"
+  },
+  {
+    "id": 188,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C10-R2-B2",
+    "name": "Zone C Aisle 10 Rack 2 Bin 2",
+    "created_at": "2025-12-22T05:08:53Z",
+    "updated_at": "2026-01-05T22:13:30Z"
+  },
+  {
+    "id": 189,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D02-R2-B1",
+    "name": "Zone D Aisle 2 Rack 2 Bin 1",
+    "created_at": "2024-02-27T19:22:07Z",
+    "updated_at": "2024-03-13T14:58:44Z"
+  },
+  {
+    "id": 190,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D02-R1-B4",
+    "name": "Zone D Aisle 2 Rack 1 Bin 4",
+    "created_at": "2026-04-15T01:11:24Z",
+    "updated_at": "2026-04-21T16:15:00Z"
+  },
+  {
+    "id": 191,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-D08-R3-B7",
+    "name": "Zone D Aisle 8 Rack 3 Bin 7",
+    "created_at": "2024-08-28T01:01:52Z",
+    "updated_at": "2024-09-17T05:24:23Z"
+  },
+  {
+    "id": 192,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A08-R5-B7",
+    "name": "Zone A Aisle 8 Rack 5 Bin 7",
+    "created_at": "2025-03-10T13:28:06Z",
+    "updated_at": "2025-03-12T04:35:08Z"
+  },
+  {
+    "id": 193,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C04-R4-B8",
+    "name": "Zone C Aisle 4 Rack 4 Bin 8",
+    "created_at": "2025-01-01T18:55:01Z",
+    "updated_at": "2025-01-19T10:28:36Z"
+  },
+  {
+    "id": 194,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A11-R3-B6",
+    "name": "Zone A Aisle 11 Rack 3 Bin 6",
+    "created_at": "2024-04-04T01:28:15Z",
+    "updated_at": "2024-04-23T10:20:13Z"
+  },
+  {
+    "id": 195,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-C04-R1-B8",
+    "name": "Zone C Aisle 4 Rack 1 Bin 8",
+    "created_at": "2024-05-22T09:49:58Z",
+    "updated_at": "2024-06-01T17:57:14Z"
+  },
+  {
+    "id": 196,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-A01-R3-B4",
+    "name": "Zone A Aisle 1 Rack 3 Bin 4",
+    "created_at": "2024-07-14T14:46:57Z",
+    "updated_at": "2024-08-11T01:33:48Z"
+  },
+  {
+    "id": 197,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B02-R5-B4",
+    "name": "Zone B Aisle 2 Rack 5 Bin 4",
+    "created_at": "2026-06-29T21:56:45Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 198,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B06-R2-B1",
+    "name": "Zone B Aisle 6 Rack 2 Bin 1",
+    "created_at": "2025-03-06T17:33:19Z",
+    "updated_at": "2025-03-13T19:07:44Z"
+  },
+  {
+    "id": 199,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B09-R3-B3",
+    "name": "Zone B Aisle 9 Rack 3 Bin 3",
+    "created_at": "2024-06-19T18:21:04Z",
+    "updated_at": "2024-06-21T01:23:13Z"
+  },
+  {
+    "id": 200,
+    "warehouse_id": 5,
+    "code": "NWG-AMB-B01-R3-B4",
+    "name": "Zone B Aisle 1 Rack 3 Bin 4",
+    "created_at": "2025-05-17T23:04:30Z",
+    "updated_at": "2025-05-18T18:27:40Z"
+  },
+  {
+    "id": 201,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B05-R1-B3",
+    "name": "Zone B Aisle 5 Rack 1 Bin 3",
+    "created_at": "2025-10-15T22:32:49Z",
+    "updated_at": "2025-11-10T12:28:51Z"
+  },
+  {
+    "id": 202,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A12-R1-B8",
+    "name": "Zone A Aisle 12 Rack 1 Bin 8",
+    "created_at": "2025-11-27T08:54:40Z",
+    "updated_at": "2025-12-14T23:43:01Z"
+  },
+  {
+    "id": 203,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A08-R5-B4",
+    "name": "Zone A Aisle 8 Rack 5 Bin 4",
+    "created_at": "2024-03-08T08:45:56Z",
+    "updated_at": "2024-04-02T17:18:00Z"
+  },
+  {
+    "id": 204,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C08-R6-B1",
+    "name": "Zone C Aisle 8 Rack 6 Bin 1",
+    "created_at": "2024-04-04T11:44:07Z",
+    "updated_at": "2024-04-27T18:47:22Z"
+  },
+  {
+    "id": 205,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D07-R6-B2",
+    "name": "Zone D Aisle 7 Rack 6 Bin 2",
+    "created_at": "2026-01-31T14:32:51Z",
+    "updated_at": "2026-02-22T04:20:06Z"
+  },
+  {
+    "id": 206,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A02-R3-B3",
+    "name": "Zone A Aisle 2 Rack 3 Bin 3",
+    "created_at": "2024-04-12T00:48:40Z",
+    "updated_at": "2024-04-18T04:50:05Z"
+  },
+  {
+    "id": 207,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C10-R6-B6",
+    "name": "Zone C Aisle 10 Rack 6 Bin 6",
+    "created_at": "2025-08-14T17:08:42Z",
+    "updated_at": "2025-09-12T18:09:25Z"
+  },
+  {
+    "id": 208,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C08-R5-B7",
+    "name": "Zone C Aisle 8 Rack 5 Bin 7",
+    "created_at": "2024-06-03T01:38:27Z",
+    "updated_at": "2024-06-08T15:56:34Z"
+  },
+  {
+    "id": 209,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B07-R4-B4",
+    "name": "Zone B Aisle 7 Rack 4 Bin 4",
+    "created_at": "2025-10-04T20:05:17Z",
+    "updated_at": "2025-10-21T07:58:19Z"
+  },
+  {
+    "id": 210,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D07-R4-B2",
+    "name": "Zone D Aisle 7 Rack 4 Bin 2",
+    "created_at": "2025-04-30T12:38:49Z",
+    "updated_at": "2025-05-21T06:51:46Z"
+  },
+  {
+    "id": 211,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C11-R3-B6",
+    "name": "Zone C Aisle 11 Rack 3 Bin 6",
+    "created_at": "2024-08-25T02:47:29Z",
+    "updated_at": "2024-09-17T04:21:12Z"
+  },
+  {
+    "id": 212,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A02-R1-B2",
+    "name": "Zone A Aisle 2 Rack 1 Bin 2",
+    "created_at": "2025-11-01T21:31:25Z",
+    "updated_at": "2025-11-06T15:01:45Z"
+  },
+  {
+    "id": 213,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C03-R5-B1",
+    "name": "Zone C Aisle 3 Rack 5 Bin 1",
+    "created_at": "2026-05-22T09:27:32Z",
+    "updated_at": "2026-06-18T16:52:02Z"
+  },
+  {
+    "id": 214,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C11-R1-B7",
+    "name": "Zone C Aisle 11 Rack 1 Bin 7",
+    "created_at": "2025-07-03T07:05:30Z",
+    "updated_at": "2025-07-23T20:50:55Z"
+  },
+  {
+    "id": 215,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A05-R5-B5",
+    "name": "Zone A Aisle 5 Rack 5 Bin 5",
+    "created_at": "2025-06-30T06:19:12Z",
+    "updated_at": "2025-07-05T08:01:24Z"
+  },
+  {
+    "id": 216,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B03-R6-B8",
+    "name": "Zone B Aisle 3 Rack 6 Bin 8",
+    "created_at": "2024-12-14T08:27:16Z",
+    "updated_at": "2024-12-19T15:32:16Z"
+  },
+  {
+    "id": 217,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C09-R3-B2",
+    "name": "Zone C Aisle 9 Rack 3 Bin 2",
+    "created_at": "2025-03-08T17:46:32Z",
+    "updated_at": "2025-04-05T15:39:01Z"
+  },
+  {
+    "id": 218,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B07-R5-B1",
+    "name": "Zone B Aisle 7 Rack 5 Bin 1",
+    "created_at": "2025-02-19T11:10:26Z",
+    "updated_at": "2025-02-20T21:54:24Z"
+  },
+  {
+    "id": 219,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B05-R6-B5",
+    "name": "Zone B Aisle 5 Rack 6 Bin 5",
+    "created_at": "2025-06-11T21:34:53Z",
+    "updated_at": "2025-06-28T23:33:11Z"
+  },
+  {
+    "id": 220,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A03-R2-B7",
+    "name": "Zone A Aisle 3 Rack 2 Bin 7",
+    "created_at": "2024-04-18T02:19:57Z",
+    "updated_at": "2024-04-25T00:37:42Z"
+  },
+  {
+    "id": 221,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A02-R6-B4",
+    "name": "Zone A Aisle 2 Rack 6 Bin 4",
+    "created_at": "2025-08-07T09:32:38Z",
+    "updated_at": "2025-08-27T19:41:03Z"
+  },
+  {
+    "id": 222,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D06-R2-B6",
+    "name": "Zone D Aisle 6 Rack 2 Bin 6",
+    "created_at": "2025-04-29T02:40:59Z",
+    "updated_at": "2025-05-14T21:36:59Z"
+  },
+  {
+    "id": 223,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A01-R2-B3",
+    "name": "Zone A Aisle 1 Rack 2 Bin 3",
+    "created_at": "2024-03-18T07:16:48Z",
+    "updated_at": "2024-03-22T07:19:45Z"
+  },
+  {
+    "id": 224,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C08-R6-B7",
+    "name": "Zone C Aisle 8 Rack 6 Bin 7",
+    "created_at": "2026-01-24T10:46:50Z",
+    "updated_at": "2026-02-22T23:04:31Z"
+  },
+  {
+    "id": 225,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D07-R3-B4",
+    "name": "Zone D Aisle 7 Rack 3 Bin 4",
+    "created_at": "2026-03-06T21:39:17Z",
+    "updated_at": "2026-03-12T11:15:42Z"
+  },
+  {
+    "id": 226,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C07-R1-B5",
+    "name": "Zone C Aisle 7 Rack 1 Bin 5",
+    "created_at": "2026-01-25T22:59:02Z",
+    "updated_at": "2026-02-20T13:54:23Z"
+  },
+  {
+    "id": 227,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C01-R2-B7",
+    "name": "Zone C Aisle 1 Rack 2 Bin 7",
+    "created_at": "2024-03-26T02:25:10Z",
+    "updated_at": "2024-03-26T12:22:31Z"
+  },
+  {
+    "id": 228,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B05-R2-B3",
+    "name": "Zone B Aisle 5 Rack 2 Bin 3",
+    "created_at": "2025-01-31T22:27:27Z",
+    "updated_at": "2025-02-15T00:41:16Z"
+  },
+  {
+    "id": 229,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C02-R1-B8",
+    "name": "Zone C Aisle 2 Rack 1 Bin 8",
+    "created_at": "2025-10-30T23:58:57Z",
+    "updated_at": "2025-11-08T13:40:54Z"
+  },
+  {
+    "id": 230,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B07-R5-B4",
+    "name": "Zone B Aisle 7 Rack 5 Bin 4",
+    "created_at": "2026-02-16T03:07:55Z",
+    "updated_at": "2026-03-15T07:05:31Z"
+  },
+  {
+    "id": 231,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-C02-R4-B1",
+    "name": "Zone C Aisle 2 Rack 4 Bin 1",
+    "created_at": "2025-11-08T15:26:43Z",
+    "updated_at": "2025-11-09T14:16:50Z"
+  },
+  {
+    "id": 232,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D02-R3-B7",
+    "name": "Zone D Aisle 2 Rack 3 Bin 7",
+    "created_at": "2026-06-09T17:53:22Z",
+    "updated_at": "2026-06-29T10:04:34Z"
+  },
+  {
+    "id": 233,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D05-R1-B7",
+    "name": "Zone D Aisle 5 Rack 1 Bin 7",
+    "created_at": "2024-02-02T09:35:19Z",
+    "updated_at": "2024-02-18T04:58:15Z"
+  },
+  {
+    "id": 234,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B10-R4-B6",
+    "name": "Zone B Aisle 10 Rack 4 Bin 6",
+    "created_at": "2024-05-16T21:43:12Z",
+    "updated_at": "2024-06-07T03:31:33Z"
+  },
+  {
+    "id": 235,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-A04-R4-B7",
+    "name": "Zone A Aisle 4 Rack 4 Bin 7",
+    "created_at": "2026-03-24T22:44:22Z",
+    "updated_at": "2026-03-28T19:22:11Z"
+  },
+  {
+    "id": 236,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-D05-R6-B6",
+    "name": "Zone D Aisle 5 Rack 6 Bin 6",
+    "created_at": "2024-12-10T04:48:18Z",
+    "updated_at": "2024-12-26T09:51:29Z"
+  },
+  {
+    "id": 237,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B02-R5-B2",
+    "name": "Zone B Aisle 2 Rack 5 Bin 2",
+    "created_at": "2026-04-04T06:22:53Z",
+    "updated_at": "2026-04-29T01:31:06Z"
+  },
+  {
+    "id": 238,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B06-R3-B3",
+    "name": "Zone B Aisle 6 Rack 3 Bin 3",
+    "created_at": "2025-01-02T00:44:28Z",
+    "updated_at": "2025-01-07T01:31:01Z"
+  },
+  {
+    "id": 239,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B05-R2-B3",
+    "name": "Zone B Aisle 5 Rack 2 Bin 3",
+    "created_at": "2024-08-25T11:23:55Z",
+    "updated_at": "2024-08-29T04:11:29Z"
+  },
+  {
+    "id": 240,
+    "warehouse_id": 6,
+    "code": "NWG-VRS-B11-R4-B8",
+    "name": "Zone B Aisle 11 Rack 4 Bin 8",
+    "created_at": "2026-05-25T17:34:55Z",
+    "updated_at": "2026-06-22T21:42:40Z"
+  },
+  {
+    "id": 241,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D11-R5-B6",
+    "name": "Zone D Aisle 11 Rack 5 Bin 6",
+    "created_at": "2025-05-06T02:30:44Z",
+    "updated_at": "2025-05-13T11:23:25Z"
+  },
+  {
+    "id": 242,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D02-R4-B8",
+    "name": "Zone D Aisle 2 Rack 4 Bin 8",
+    "created_at": "2025-04-15T09:57:50Z",
+    "updated_at": "2025-04-28T18:58:54Z"
+  },
+  {
+    "id": 243,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A06-R5-B2",
+    "name": "Zone A Aisle 6 Rack 5 Bin 2",
+    "created_at": "2025-04-27T04:50:36Z",
+    "updated_at": "2025-05-19T15:48:44Z"
+  },
+  {
+    "id": 244,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D01-R1-B6",
+    "name": "Zone D Aisle 1 Rack 1 Bin 6",
+    "created_at": "2025-03-21T23:00:27Z",
+    "updated_at": "2025-03-25T17:24:20Z"
+  },
+  {
+    "id": 245,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A10-R5-B7",
+    "name": "Zone A Aisle 10 Rack 5 Bin 7",
+    "created_at": "2025-12-19T19:08:27Z",
+    "updated_at": "2026-01-17T00:16:24Z"
+  },
+  {
+    "id": 246,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A08-R5-B4",
+    "name": "Zone A Aisle 8 Rack 5 Bin 4",
+    "created_at": "2025-05-14T11:23:11Z",
+    "updated_at": "2025-06-12T21:16:09Z"
+  },
+  {
+    "id": 247,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D09-R2-B1",
+    "name": "Zone D Aisle 9 Rack 2 Bin 1",
+    "created_at": "2025-11-30T20:43:08Z",
+    "updated_at": "2025-12-05T22:18:26Z"
+  },
+  {
+    "id": 248,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C12-R1-B3",
+    "name": "Zone C Aisle 12 Rack 1 Bin 3",
+    "created_at": "2024-03-01T19:19:27Z",
+    "updated_at": "2024-03-13T20:57:59Z"
+  },
+  {
+    "id": 249,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D08-R5-B3",
+    "name": "Zone D Aisle 8 Rack 5 Bin 3",
+    "created_at": "2025-07-19T07:05:57Z",
+    "updated_at": "2025-08-06T10:30:11Z"
+  },
+  {
+    "id": 250,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C07-R4-B6",
+    "name": "Zone C Aisle 7 Rack 4 Bin 6",
+    "created_at": "2024-03-22T08:19:40Z",
+    "updated_at": "2024-04-07T15:13:21Z"
+  },
+  {
+    "id": 251,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A06-R1-B7",
+    "name": "Zone A Aisle 6 Rack 1 Bin 7",
+    "created_at": "2025-03-17T09:46:01Z",
+    "updated_at": "2025-03-29T16:21:47Z"
+  },
+  {
+    "id": 252,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B06-R1-B3",
+    "name": "Zone B Aisle 6 Rack 1 Bin 3",
+    "created_at": "2025-06-27T10:15:51Z",
+    "updated_at": "2025-07-12T12:42:37Z"
+  },
+  {
+    "id": 253,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D03-R5-B2",
+    "name": "Zone D Aisle 3 Rack 5 Bin 2",
+    "created_at": "2025-04-25T22:02:57Z",
+    "updated_at": "2025-05-23T02:14:26Z"
+  },
+  {
+    "id": 254,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D11-R3-B3",
+    "name": "Zone D Aisle 11 Rack 3 Bin 3",
+    "created_at": "2026-03-28T17:21:58Z",
+    "updated_at": "2026-04-02T07:14:48Z"
+  },
+  {
+    "id": 255,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D09-R3-B1",
+    "name": "Zone D Aisle 9 Rack 3 Bin 1",
+    "created_at": "2025-07-17T06:37:15Z",
+    "updated_at": "2025-08-01T07:28:33Z"
+  },
+  {
+    "id": 256,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B04-R3-B8",
+    "name": "Zone B Aisle 4 Rack 3 Bin 8",
+    "created_at": "2024-10-25T06:28:26Z",
+    "updated_at": "2024-11-05T07:24:56Z"
+  },
+  {
+    "id": 257,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B03-R1-B5",
+    "name": "Zone B Aisle 3 Rack 1 Bin 5",
+    "created_at": "2024-06-06T02:48:03Z",
+    "updated_at": "2024-06-30T19:18:07Z"
+  },
+  {
+    "id": 258,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A11-R3-B3",
+    "name": "Zone A Aisle 11 Rack 3 Bin 3",
+    "created_at": "2025-08-08T05:08:05Z",
+    "updated_at": "2025-08-15T17:51:07Z"
+  },
+  {
+    "id": 259,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B03-R6-B3",
+    "name": "Zone B Aisle 3 Rack 6 Bin 3",
+    "created_at": "2025-11-10T21:38:50Z",
+    "updated_at": "2025-11-13T01:33:09Z"
+  },
+  {
+    "id": 260,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D06-R6-B4",
+    "name": "Zone D Aisle 6 Rack 6 Bin 4",
+    "created_at": "2025-11-21T00:55:41Z",
+    "updated_at": "2025-12-20T17:19:23Z"
+  },
+  {
+    "id": 261,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C12-R4-B4",
+    "name": "Zone C Aisle 12 Rack 4 Bin 4",
+    "created_at": "2026-04-09T13:22:43Z",
+    "updated_at": "2026-04-21T05:01:48Z"
+  },
+  {
+    "id": 262,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C08-R2-B6",
+    "name": "Zone C Aisle 8 Rack 2 Bin 6",
+    "created_at": "2026-06-05T02:46:34Z",
+    "updated_at": "2026-06-26T13:06:33Z"
+  },
+  {
+    "id": 263,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D05-R4-B7",
+    "name": "Zone D Aisle 5 Rack 4 Bin 7",
+    "created_at": "2024-09-08T17:57:59Z",
+    "updated_at": "2024-09-18T11:37:51Z"
+  },
+  {
+    "id": 264,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B05-R1-B8",
+    "name": "Zone B Aisle 5 Rack 1 Bin 8",
+    "created_at": "2025-07-30T15:47:25Z",
+    "updated_at": "2025-08-26T14:52:37Z"
+  },
+  {
+    "id": 265,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A12-R5-B2",
+    "name": "Zone A Aisle 12 Rack 5 Bin 2",
+    "created_at": "2025-03-18T19:55:10Z",
+    "updated_at": "2025-03-22T22:38:27Z"
+  },
+  {
+    "id": 266,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B05-R4-B3",
+    "name": "Zone B Aisle 5 Rack 4 Bin 3",
+    "created_at": "2025-11-10T14:09:33Z",
+    "updated_at": "2025-11-15T02:00:47Z"
+  },
+  {
+    "id": 267,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B08-R3-B1",
+    "name": "Zone B Aisle 8 Rack 3 Bin 1",
+    "created_at": "2025-10-06T12:28:40Z",
+    "updated_at": "2025-10-09T03:31:35Z"
+  },
+  {
+    "id": 268,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D09-R3-B4",
+    "name": "Zone D Aisle 9 Rack 3 Bin 4",
+    "created_at": "2025-08-22T21:18:58Z",
+    "updated_at": "2025-08-26T21:23:36Z"
+  },
+  {
+    "id": 269,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C04-R1-B6",
+    "name": "Zone C Aisle 4 Rack 1 Bin 6",
+    "created_at": "2024-06-02T22:05:11Z",
+    "updated_at": "2024-06-19T05:43:40Z"
+  },
+  {
+    "id": 270,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B03-R1-B5",
+    "name": "Zone B Aisle 3 Rack 1 Bin 5",
+    "created_at": "2026-01-03T22:23:47Z",
+    "updated_at": "2026-01-10T17:06:05Z"
+  },
+  {
+    "id": 271,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D08-R5-B1",
+    "name": "Zone D Aisle 8 Rack 5 Bin 1",
+    "created_at": "2024-05-03T01:45:03Z",
+    "updated_at": "2024-05-04T00:53:31Z"
+  },
+  {
+    "id": 272,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C04-R2-B7",
+    "name": "Zone C Aisle 4 Rack 2 Bin 7",
+    "created_at": "2024-06-21T17:20:47Z",
+    "updated_at": "2024-07-05T18:00:32Z"
+  },
+  {
+    "id": 273,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B05-R1-B1",
+    "name": "Zone B Aisle 5 Rack 1 Bin 1",
+    "created_at": "2025-01-05T09:40:08Z",
+    "updated_at": "2025-01-25T19:48:03Z"
+  },
+  {
+    "id": 274,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-D02-R1-B8",
+    "name": "Zone D Aisle 2 Rack 1 Bin 8",
+    "created_at": "2026-04-12T17:32:01Z",
+    "updated_at": "2026-04-13T13:40:55Z"
+  },
+  {
+    "id": 275,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-B12-R2-B5",
+    "name": "Zone B Aisle 12 Rack 2 Bin 5",
+    "created_at": "2025-10-28T19:11:09Z",
+    "updated_at": "2025-10-28T22:00:30Z"
+  },
+  {
+    "id": 276,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C04-R5-B7",
+    "name": "Zone C Aisle 4 Rack 5 Bin 7",
+    "created_at": "2024-10-17T23:34:07Z",
+    "updated_at": "2024-10-22T04:18:57Z"
+  },
+  {
+    "id": 277,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C02-R5-B1",
+    "name": "Zone C Aisle 2 Rack 5 Bin 1",
+    "created_at": "2025-08-29T13:10:12Z",
+    "updated_at": "2025-09-21T09:55:01Z"
+  },
+  {
+    "id": 278,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-A11-R4-B6",
+    "name": "Zone A Aisle 11 Rack 4 Bin 6",
+    "created_at": "2025-01-29T00:46:01Z",
+    "updated_at": "2025-01-29T20:41:25Z"
+  },
+  {
+    "id": 279,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C02-R3-B4",
+    "name": "Zone C Aisle 2 Rack 3 Bin 4",
+    "created_at": "2024-06-10T00:52:08Z",
+    "updated_at": "2024-07-08T07:50:07Z"
+  },
+  {
+    "id": 280,
+    "warehouse_id": 7,
+    "code": "RLT-DVR-C03-R1-B6",
+    "name": "Zone C Aisle 3 Rack 1 Bin 6",
+    "created_at": "2026-04-28T04:52:04Z",
+    "updated_at": "2026-05-14T16:18:14Z"
+  },
+  {
+    "id": 281,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B11-R4-B8",
+    "name": "Zone B Aisle 11 Rack 4 Bin 8",
+    "created_at": "2024-10-10T03:48:58Z",
+    "updated_at": "2024-10-16T17:55:50Z"
+  },
+  {
+    "id": 282,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A12-R4-B1",
+    "name": "Zone A Aisle 12 Rack 4 Bin 1",
+    "created_at": "2025-03-31T20:19:55Z",
+    "updated_at": "2025-04-10T16:12:08Z"
+  },
+  {
+    "id": 283,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A04-R1-B6",
+    "name": "Zone A Aisle 4 Rack 1 Bin 6",
+    "created_at": "2025-04-26T16:28:00Z",
+    "updated_at": "2025-05-21T17:55:55Z"
+  },
+  {
+    "id": 284,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D09-R4-B5",
+    "name": "Zone D Aisle 9 Rack 4 Bin 5",
+    "created_at": "2024-02-26T21:19:16Z",
+    "updated_at": "2024-03-07T04:58:21Z"
+  },
+  {
+    "id": 285,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C06-R1-B6",
+    "name": "Zone C Aisle 6 Rack 1 Bin 6",
+    "created_at": "2025-02-28T10:15:12Z",
+    "updated_at": "2025-03-06T12:16:38Z"
+  },
+  {
+    "id": 286,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C07-R4-B8",
+    "name": "Zone C Aisle 7 Rack 4 Bin 8",
+    "created_at": "2025-08-23T15:09:42Z",
+    "updated_at": "2025-09-09T03:10:04Z"
+  },
+  {
+    "id": 287,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B08-R6-B8",
+    "name": "Zone B Aisle 8 Rack 6 Bin 8",
+    "created_at": "2025-07-24T15:41:09Z",
+    "updated_at": "2025-08-18T21:41:09Z"
+  },
+  {
+    "id": 288,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C02-R6-B7",
+    "name": "Zone C Aisle 2 Rack 6 Bin 7",
+    "created_at": "2024-05-02T14:36:43Z",
+    "updated_at": "2024-05-23T13:18:20Z"
+  },
+  {
+    "id": 289,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B09-R3-B6",
+    "name": "Zone B Aisle 9 Rack 3 Bin 6",
+    "created_at": "2024-06-08T09:07:38Z",
+    "updated_at": "2024-06-12T07:24:51Z"
+  },
+  {
+    "id": 290,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C11-R3-B5",
+    "name": "Zone C Aisle 11 Rack 3 Bin 5",
+    "created_at": "2025-11-23T16:56:40Z",
+    "updated_at": "2025-12-23T00:02:58Z"
+  },
+  {
+    "id": 291,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D03-R6-B8",
+    "name": "Zone D Aisle 3 Rack 6 Bin 8",
+    "created_at": "2025-06-30T02:37:17Z",
+    "updated_at": "2025-07-21T20:33:54Z"
+  },
+  {
+    "id": 292,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A12-R3-B7",
+    "name": "Zone A Aisle 12 Rack 3 Bin 7",
+    "created_at": "2025-03-02T12:09:56Z",
+    "updated_at": "2025-03-05T07:59:33Z"
+  },
+  {
+    "id": 293,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A11-R6-B7",
+    "name": "Zone A Aisle 11 Rack 6 Bin 7",
+    "created_at": "2025-07-18T09:13:14Z",
+    "updated_at": "2025-08-12T08:00:32Z"
+  },
+  {
+    "id": 294,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B01-R2-B8",
+    "name": "Zone B Aisle 1 Rack 2 Bin 8",
+    "created_at": "2024-02-24T01:23:58Z",
+    "updated_at": "2024-03-01T05:28:05Z"
+  },
+  {
+    "id": 295,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A04-R6-B6",
+    "name": "Zone A Aisle 4 Rack 6 Bin 6",
+    "created_at": "2025-07-16T13:57:08Z",
+    "updated_at": "2025-08-04T05:00:35Z"
+  },
+  {
+    "id": 296,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A10-R2-B8",
+    "name": "Zone A Aisle 10 Rack 2 Bin 8",
+    "created_at": "2025-07-30T06:33:33Z",
+    "updated_at": "2025-08-17T08:59:10Z"
+  },
+  {
+    "id": 297,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D02-R5-B3",
+    "name": "Zone D Aisle 2 Rack 5 Bin 3",
+    "created_at": "2026-04-02T11:41:42Z",
+    "updated_at": "2026-04-20T08:13:21Z"
+  },
+  {
+    "id": 298,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D06-R6-B5",
+    "name": "Zone D Aisle 6 Rack 6 Bin 5",
+    "created_at": "2025-01-22T18:11:48Z",
+    "updated_at": "2025-01-28T07:22:25Z"
+  },
+  {
+    "id": 299,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A12-R2-B8",
+    "name": "Zone A Aisle 12 Rack 2 Bin 8",
+    "created_at": "2026-03-15T06:56:34Z",
+    "updated_at": "2026-04-03T02:48:56Z"
+  },
+  {
+    "id": 300,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A05-R3-B8",
+    "name": "Zone A Aisle 5 Rack 3 Bin 8",
+    "created_at": "2024-11-29T07:45:54Z",
+    "updated_at": "2024-12-29T01:39:12Z"
+  },
+  {
+    "id": 301,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C12-R4-B4",
+    "name": "Zone C Aisle 12 Rack 4 Bin 4",
+    "created_at": "2024-07-09T12:15:16Z",
+    "updated_at": "2024-07-16T03:23:22Z"
+  },
+  {
+    "id": 302,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-A08-R2-B8",
+    "name": "Zone A Aisle 8 Rack 2 Bin 8",
+    "created_at": "2024-05-16T09:04:33Z",
+    "updated_at": "2024-05-31T22:25:21Z"
+  },
+  {
+    "id": 303,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C12-R1-B5",
+    "name": "Zone C Aisle 12 Rack 1 Bin 5",
+    "created_at": "2025-04-10T23:11:43Z",
+    "updated_at": "2025-04-18T15:42:07Z"
+  },
+  {
+    "id": 304,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B06-R5-B4",
+    "name": "Zone B Aisle 6 Rack 5 Bin 4",
+    "created_at": "2024-07-07T12:43:12Z",
+    "updated_at": "2024-07-17T07:52:44Z"
+  },
+  {
+    "id": 305,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B04-R4-B1",
+    "name": "Zone B Aisle 4 Rack 4 Bin 1",
+    "created_at": "2025-07-14T15:11:51Z",
+    "updated_at": "2025-08-10T13:40:45Z"
+  },
+  {
+    "id": 306,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C08-R5-B3",
+    "name": "Zone C Aisle 8 Rack 5 Bin 3",
+    "created_at": "2024-05-13T22:20:46Z",
+    "updated_at": "2024-05-17T03:56:53Z"
+  },
+  {
+    "id": 307,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C07-R6-B8",
+    "name": "Zone C Aisle 7 Rack 6 Bin 8",
+    "created_at": "2026-03-27T15:21:16Z",
+    "updated_at": "2026-04-16T14:57:55Z"
+  },
+  {
+    "id": 308,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D10-R1-B3",
+    "name": "Zone D Aisle 10 Rack 1 Bin 3",
+    "created_at": "2025-05-07T11:38:53Z",
+    "updated_at": "2025-05-11T03:03:23Z"
+  },
+  {
+    "id": 309,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D08-R6-B6",
+    "name": "Zone D Aisle 8 Rack 6 Bin 6",
+    "created_at": "2024-07-18T08:39:39Z",
+    "updated_at": "2024-08-14T03:58:33Z"
+  },
+  {
+    "id": 310,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B03-R4-B1",
+    "name": "Zone B Aisle 3 Rack 4 Bin 1",
+    "created_at": "2024-07-11T21:03:43Z",
+    "updated_at": "2024-08-06T01:41:40Z"
+  },
+  {
+    "id": 311,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B05-R2-B3",
+    "name": "Zone B Aisle 5 Rack 2 Bin 3",
+    "created_at": "2025-05-16T05:39:52Z",
+    "updated_at": "2025-05-27T05:21:22Z"
+  },
+  {
+    "id": 312,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C09-R3-B2",
+    "name": "Zone C Aisle 9 Rack 3 Bin 2",
+    "created_at": "2025-01-24T07:14:35Z",
+    "updated_at": "2025-02-02T20:57:04Z"
+  },
+  {
+    "id": 313,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C03-R6-B5",
+    "name": "Zone C Aisle 3 Rack 6 Bin 5",
+    "created_at": "2026-04-08T17:30:09Z",
+    "updated_at": "2026-04-13T07:21:16Z"
+  },
+  {
+    "id": 314,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B10-R5-B3",
+    "name": "Zone B Aisle 10 Rack 5 Bin 3",
+    "created_at": "2024-09-22T22:49:18Z",
+    "updated_at": "2024-10-22T08:51:34Z"
+  },
+  {
+    "id": 315,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C10-R1-B1",
+    "name": "Zone C Aisle 10 Rack 1 Bin 1",
+    "created_at": "2024-05-06T04:12:27Z",
+    "updated_at": "2024-05-08T10:10:27Z"
+  },
+  {
+    "id": 316,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C11-R2-B7",
+    "name": "Zone C Aisle 11 Rack 2 Bin 7",
+    "created_at": "2024-02-17T01:08:24Z",
+    "updated_at": "2024-03-12T06:23:47Z"
+  },
+  {
+    "id": 317,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C11-R3-B8",
+    "name": "Zone C Aisle 11 Rack 3 Bin 8",
+    "created_at": "2025-01-15T09:42:36Z",
+    "updated_at": "2025-02-04T03:50:31Z"
+  },
+  {
+    "id": 318,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-C08-R1-B1",
+    "name": "Zone C Aisle 8 Rack 1 Bin 1",
+    "created_at": "2024-09-02T13:39:58Z",
+    "updated_at": "2024-09-23T22:50:37Z"
+  },
+  {
+    "id": 319,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-D08-R4-B4",
+    "name": "Zone D Aisle 8 Rack 4 Bin 4",
+    "created_at": "2025-06-12T11:17:53Z",
+    "updated_at": "2025-07-11T23:06:30Z"
+  },
+  {
+    "id": 320,
+    "warehouse_id": 8,
+    "code": "RLT-EFC-B06-R6-B6",
+    "name": "Zone B Aisle 6 Rack 6 Bin 6",
+    "created_at": "2025-06-20T12:20:51Z",
+    "updated_at": "2025-07-09T21:53:09Z"
+  },
+  {
+    "id": 321,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B06-R5-B2",
+    "name": "Zone B Aisle 6 Rack 5 Bin 2",
+    "created_at": "2025-05-10T17:30:09Z",
+    "updated_at": "2025-05-22T12:08:51Z"
+  },
+  {
+    "id": 322,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D02-R3-B8",
+    "name": "Zone D Aisle 2 Rack 3 Bin 8",
+    "created_at": "2025-01-20T03:05:09Z",
+    "updated_at": "2025-01-27T00:13:12Z"
+  },
+  {
+    "id": 323,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A01-R3-B7",
+    "name": "Zone A Aisle 1 Rack 3 Bin 7",
+    "created_at": "2025-10-11T13:11:35Z",
+    "updated_at": "2025-10-23T15:26:56Z"
+  },
+  {
+    "id": 324,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B06-R5-B6",
+    "name": "Zone B Aisle 6 Rack 5 Bin 6",
+    "created_at": "2024-10-21T21:31:41Z",
+    "updated_at": "2024-10-29T16:10:31Z"
+  },
+  {
+    "id": 325,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D09-R4-B8",
+    "name": "Zone D Aisle 9 Rack 4 Bin 8",
+    "created_at": "2025-04-24T07:13:22Z",
+    "updated_at": "2025-05-18T11:42:04Z"
+  },
+  {
+    "id": 326,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A02-R4-B8",
+    "name": "Zone A Aisle 2 Rack 4 Bin 8",
+    "created_at": "2025-01-08T23:00:51Z",
+    "updated_at": "2025-01-19T10:40:32Z"
+  },
+  {
+    "id": 327,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C01-R1-B5",
+    "name": "Zone C Aisle 1 Rack 1 Bin 5",
+    "created_at": "2026-02-07T18:59:35Z",
+    "updated_at": "2026-03-08T20:09:10Z"
+  },
+  {
+    "id": 328,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D05-R5-B1",
+    "name": "Zone D Aisle 5 Rack 5 Bin 1",
+    "created_at": "2024-06-15T23:46:54Z",
+    "updated_at": "2024-07-06T22:50:56Z"
+  },
+  {
+    "id": 329,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B05-R6-B6",
+    "name": "Zone B Aisle 5 Rack 6 Bin 6",
+    "created_at": "2025-09-18T10:24:05Z",
+    "updated_at": "2025-10-06T05:44:57Z"
+  },
+  {
+    "id": 330,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A07-R1-B4",
+    "name": "Zone A Aisle 7 Rack 1 Bin 4",
+    "created_at": "2025-07-17T03:51:57Z",
+    "updated_at": "2025-08-13T01:25:02Z"
+  },
+  {
+    "id": 331,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C02-R4-B8",
+    "name": "Zone C Aisle 2 Rack 4 Bin 8",
+    "created_at": "2026-05-04T04:09:29Z",
+    "updated_at": "2026-05-17T19:03:22Z"
+  },
+  {
+    "id": 332,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A03-R1-B7",
+    "name": "Zone A Aisle 3 Rack 1 Bin 7",
+    "created_at": "2025-08-02T17:50:32Z",
+    "updated_at": "2025-08-19T05:54:18Z"
+  },
+  {
+    "id": 333,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C03-R2-B7",
+    "name": "Zone C Aisle 3 Rack 2 Bin 7",
+    "created_at": "2026-02-15T20:15:20Z",
+    "updated_at": "2026-02-17T20:09:21Z"
+  },
+  {
+    "id": 334,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A01-R2-B6",
+    "name": "Zone A Aisle 1 Rack 2 Bin 6",
+    "created_at": "2026-01-05T22:27:43Z",
+    "updated_at": "2026-01-31T04:31:42Z"
+  },
+  {
+    "id": 335,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D03-R5-B3",
+    "name": "Zone D Aisle 3 Rack 5 Bin 3",
+    "created_at": "2025-05-24T11:27:10Z",
+    "updated_at": "2025-06-23T06:43:44Z"
+  },
+  {
+    "id": 336,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C03-R4-B5",
+    "name": "Zone C Aisle 3 Rack 4 Bin 5",
+    "created_at": "2025-06-06T12:54:40Z",
+    "updated_at": "2025-07-01T04:58:33Z"
+  },
+  {
+    "id": 337,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D12-R5-B5",
+    "name": "Zone D Aisle 12 Rack 5 Bin 5",
+    "created_at": "2026-01-07T17:16:45Z",
+    "updated_at": "2026-01-08T13:39:45Z"
+  },
+  {
+    "id": 338,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C06-R6-B2",
+    "name": "Zone C Aisle 6 Rack 6 Bin 2",
+    "created_at": "2025-10-09T01:44:48Z",
+    "updated_at": "2025-11-06T10:48:32Z"
+  },
+  {
+    "id": 339,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C12-R6-B1",
+    "name": "Zone C Aisle 12 Rack 6 Bin 1",
+    "created_at": "2026-01-07T06:00:20Z",
+    "updated_at": "2026-01-20T04:22:15Z"
+  },
+  {
+    "id": 340,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B12-R1-B8",
+    "name": "Zone B Aisle 12 Rack 1 Bin 8",
+    "created_at": "2024-09-21T21:09:01Z",
+    "updated_at": "2024-10-17T08:55:30Z"
+  },
+  {
+    "id": 341,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D03-R6-B4",
+    "name": "Zone D Aisle 3 Rack 6 Bin 4",
+    "created_at": "2024-02-19T01:02:02Z",
+    "updated_at": "2024-03-17T21:07:35Z"
+  },
+  {
+    "id": 342,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A04-R1-B8",
+    "name": "Zone A Aisle 4 Rack 1 Bin 8",
+    "created_at": "2025-05-02T07:18:12Z",
+    "updated_at": "2025-05-22T16:13:03Z"
+  },
+  {
+    "id": 343,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B07-R6-B4",
+    "name": "Zone B Aisle 7 Rack 6 Bin 4",
+    "created_at": "2025-09-29T11:58:43Z",
+    "updated_at": "2025-10-23T21:38:26Z"
+  },
+  {
+    "id": 344,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D12-R6-B1",
+    "name": "Zone D Aisle 12 Rack 6 Bin 1",
+    "created_at": "2024-08-02T12:05:17Z",
+    "updated_at": "2024-08-27T17:23:52Z"
+  },
+  {
+    "id": 345,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B09-R3-B8",
+    "name": "Zone B Aisle 9 Rack 3 Bin 8",
+    "created_at": "2026-03-27T07:12:29Z",
+    "updated_at": "2026-04-14T15:14:26Z"
+  },
+  {
+    "id": 346,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C03-R4-B6",
+    "name": "Zone C Aisle 3 Rack 4 Bin 6",
+    "created_at": "2026-04-28T14:32:30Z",
+    "updated_at": "2026-05-15T20:18:57Z"
+  },
+  {
+    "id": 347,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C10-R4-B4",
+    "name": "Zone C Aisle 10 Rack 4 Bin 4",
+    "created_at": "2025-01-17T22:53:58Z",
+    "updated_at": "2025-01-31T12:57:55Z"
+  },
+  {
+    "id": 348,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C04-R3-B5",
+    "name": "Zone C Aisle 4 Rack 3 Bin 5",
+    "created_at": "2024-11-17T23:52:34Z",
+    "updated_at": "2024-12-11T18:36:21Z"
+  },
+  {
+    "id": 349,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C08-R3-B5",
+    "name": "Zone C Aisle 8 Rack 3 Bin 5",
+    "created_at": "2025-03-23T01:33:56Z",
+    "updated_at": "2025-03-29T00:33:33Z"
+  },
+  {
+    "id": 350,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D07-R3-B3",
+    "name": "Zone D Aisle 7 Rack 3 Bin 3",
+    "created_at": "2025-03-27T04:51:35Z",
+    "updated_at": "2025-03-29T06:52:14Z"
+  },
+  {
+    "id": 351,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C12-R1-B6",
+    "name": "Zone C Aisle 12 Rack 1 Bin 6",
+    "created_at": "2025-11-18T04:58:36Z",
+    "updated_at": "2025-11-30T16:45:19Z"
+  },
+  {
+    "id": 352,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-D04-R2-B5",
+    "name": "Zone D Aisle 4 Rack 2 Bin 5",
+    "created_at": "2026-05-23T01:33:01Z",
+    "updated_at": "2026-06-05T07:00:44Z"
+  },
+  {
+    "id": 353,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B02-R5-B4",
+    "name": "Zone B Aisle 2 Rack 5 Bin 4",
+    "created_at": "2025-01-11T15:29:27Z",
+    "updated_at": "2025-01-14T03:38:12Z"
+  },
+  {
+    "id": 354,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B11-R2-B1",
+    "name": "Zone B Aisle 11 Rack 2 Bin 1",
+    "created_at": "2024-06-04T15:39:02Z",
+    "updated_at": "2024-06-24T18:10:53Z"
+  },
+  {
+    "id": 355,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C12-R4-B2",
+    "name": "Zone C Aisle 12 Rack 4 Bin 2",
+    "created_at": "2024-08-01T13:08:33Z",
+    "updated_at": "2024-08-01T20:10:45Z"
+  },
+  {
+    "id": 356,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B07-R6-B8",
+    "name": "Zone B Aisle 7 Rack 6 Bin 8",
+    "created_at": "2026-01-11T16:34:15Z",
+    "updated_at": "2026-01-21T09:57:13Z"
+  },
+  {
+    "id": 357,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-C06-R3-B1",
+    "name": "Zone C Aisle 6 Rack 3 Bin 1",
+    "created_at": "2024-05-18T23:20:14Z",
+    "updated_at": "2024-06-15T21:15:03Z"
+  },
+  {
+    "id": 358,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B09-R6-B1",
+    "name": "Zone B Aisle 9 Rack 6 Bin 1",
+    "created_at": "2024-09-28T22:53:16Z",
+    "updated_at": "2024-10-19T06:45:32Z"
+  },
+  {
+    "id": 359,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-B01-R4-B8",
+    "name": "Zone B Aisle 1 Rack 4 Bin 8",
+    "created_at": "2024-10-16T10:12:03Z",
+    "updated_at": "2024-10-30T12:27:15Z"
+  },
+  {
+    "id": 360,
+    "warehouse_id": 9,
+    "code": "DBO-EFC-A01-R3-B2",
+    "name": "Zone A Aisle 1 Rack 3 Bin 2",
+    "created_at": "2025-06-04T11:16:31Z",
+    "updated_at": "2025-06-18T07:48:49Z"
+  },
+  {
+    "id": 361,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D11-R5-B8",
+    "name": "Zone D Aisle 11 Rack 5 Bin 8",
+    "created_at": "2024-07-27T11:20:11Z",
+    "updated_at": "2024-08-20T23:47:12Z"
+  },
+  {
+    "id": 362,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D05-R2-B2",
+    "name": "Zone D Aisle 5 Rack 2 Bin 2",
+    "created_at": "2025-05-28T16:47:48Z",
+    "updated_at": "2025-06-05T15:06:58Z"
+  },
+  {
+    "id": 363,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D11-R3-B3",
+    "name": "Zone D Aisle 11 Rack 3 Bin 3",
+    "created_at": "2024-01-22T21:05:48Z",
+    "updated_at": "2024-02-08T06:51:38Z"
+  },
+  {
+    "id": 364,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C10-R6-B4",
+    "name": "Zone C Aisle 10 Rack 6 Bin 4",
+    "created_at": "2024-09-29T14:55:28Z",
+    "updated_at": "2024-10-29T07:44:16Z"
+  },
+  {
+    "id": 365,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D07-R5-B6",
+    "name": "Zone D Aisle 7 Rack 5 Bin 6",
+    "created_at": "2024-05-14T17:49:06Z",
+    "updated_at": "2024-06-03T05:49:22Z"
+  },
+  {
+    "id": 366,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A03-R2-B8",
+    "name": "Zone A Aisle 3 Rack 2 Bin 8",
+    "created_at": "2025-05-17T16:44:40Z",
+    "updated_at": "2025-05-29T18:44:24Z"
+  },
+  {
+    "id": 367,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A05-R4-B4",
+    "name": "Zone A Aisle 5 Rack 4 Bin 4",
+    "created_at": "2025-11-24T23:30:26Z",
+    "updated_at": "2025-12-07T23:34:41Z"
+  },
+  {
+    "id": 368,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C05-R5-B1",
+    "name": "Zone C Aisle 5 Rack 5 Bin 1",
+    "created_at": "2025-02-10T07:24:29Z",
+    "updated_at": "2025-02-27T19:18:59Z"
+  },
+  {
+    "id": 369,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B01-R6-B2",
+    "name": "Zone B Aisle 1 Rack 6 Bin 2",
+    "created_at": "2025-12-23T23:10:58Z",
+    "updated_at": "2026-01-07T21:38:17Z"
+  },
+  {
+    "id": 370,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B07-R6-B5",
+    "name": "Zone B Aisle 7 Rack 6 Bin 5",
+    "created_at": "2024-07-01T09:34:34Z",
+    "updated_at": "2024-07-15T18:19:11Z"
+  },
+  {
+    "id": 371,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C10-R2-B4",
+    "name": "Zone C Aisle 10 Rack 2 Bin 4",
+    "created_at": "2024-07-26T11:48:18Z",
+    "updated_at": "2024-08-18T17:55:38Z"
+  },
+  {
+    "id": 372,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B08-R6-B6",
+    "name": "Zone B Aisle 8 Rack 6 Bin 6",
+    "created_at": "2025-10-07T23:50:53Z",
+    "updated_at": "2025-11-03T16:45:09Z"
+  },
+  {
+    "id": 373,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D09-R6-B4",
+    "name": "Zone D Aisle 9 Rack 6 Bin 4",
+    "created_at": "2025-01-19T10:10:47Z",
+    "updated_at": "2025-02-17T09:21:13Z"
+  },
+  {
+    "id": 374,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A09-R4-B6",
+    "name": "Zone A Aisle 9 Rack 4 Bin 6",
+    "created_at": "2024-05-01T07:52:49Z",
+    "updated_at": "2024-05-28T18:11:04Z"
+  },
+  {
+    "id": 375,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A01-R5-B4",
+    "name": "Zone A Aisle 1 Rack 5 Bin 4",
+    "created_at": "2026-06-08T15:51:57Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 376,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B03-R3-B8",
+    "name": "Zone B Aisle 3 Rack 3 Bin 8",
+    "created_at": "2024-06-29T13:44:31Z",
+    "updated_at": "2024-07-09T14:03:07Z"
+  },
+  {
+    "id": 377,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D02-R5-B8",
+    "name": "Zone D Aisle 2 Rack 5 Bin 8",
+    "created_at": "2024-03-27T10:15:11Z",
+    "updated_at": "2024-04-18T11:32:23Z"
+  },
+  {
+    "id": 378,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B09-R4-B8",
+    "name": "Zone B Aisle 9 Rack 4 Bin 8",
+    "created_at": "2026-05-26T00:07:58Z",
+    "updated_at": "2026-05-28T20:24:03Z"
+  },
+  {
+    "id": 379,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D11-R3-B1",
+    "name": "Zone D Aisle 11 Rack 3 Bin 1",
+    "created_at": "2025-09-07T02:02:16Z",
+    "updated_at": "2025-09-19T11:30:06Z"
+  },
+  {
+    "id": 380,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A12-R2-B2",
+    "name": "Zone A Aisle 12 Rack 2 Bin 2",
+    "created_at": "2024-03-11T08:31:34Z",
+    "updated_at": "2024-03-31T23:10:09Z"
+  },
+  {
+    "id": 381,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C12-R1-B1",
+    "name": "Zone C Aisle 12 Rack 1 Bin 1",
+    "created_at": "2024-04-17T05:13:12Z",
+    "updated_at": "2024-05-10T04:13:22Z"
+  },
+  {
+    "id": 382,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A05-R4-B3",
+    "name": "Zone A Aisle 5 Rack 4 Bin 3",
+    "created_at": "2024-07-29T09:09:14Z",
+    "updated_at": "2024-08-18T19:54:39Z"
+  },
+  {
+    "id": 383,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C07-R4-B7",
+    "name": "Zone C Aisle 7 Rack 4 Bin 7",
+    "created_at": "2025-08-06T13:04:50Z",
+    "updated_at": "2025-08-10T11:34:42Z"
+  },
+  {
+    "id": 384,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B11-R3-B2",
+    "name": "Zone B Aisle 11 Rack 3 Bin 2",
+    "created_at": "2024-10-04T05:58:44Z",
+    "updated_at": "2024-10-30T08:55:49Z"
+  },
+  {
+    "id": 385,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D09-R2-B4",
+    "name": "Zone D Aisle 9 Rack 2 Bin 4",
+    "created_at": "2024-01-06T09:29:37Z",
+    "updated_at": "2024-01-07T12:58:55Z"
+  },
+  {
+    "id": 386,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C08-R6-B7",
+    "name": "Zone C Aisle 8 Rack 6 Bin 7",
+    "created_at": "2026-04-06T07:55:20Z",
+    "updated_at": "2026-04-24T18:48:40Z"
+  },
+  {
+    "id": 387,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B04-R4-B6",
+    "name": "Zone B Aisle 4 Rack 4 Bin 6",
+    "created_at": "2024-08-28T23:20:38Z",
+    "updated_at": "2024-09-11T09:29:56Z"
+  },
+  {
+    "id": 388,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B12-R1-B1",
+    "name": "Zone B Aisle 12 Rack 1 Bin 1",
+    "created_at": "2025-10-13T06:25:20Z",
+    "updated_at": "2025-11-12T03:51:34Z"
+  },
+  {
+    "id": 389,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A04-R2-B2",
+    "name": "Zone A Aisle 4 Rack 2 Bin 2",
+    "created_at": "2024-06-05T17:42:07Z",
+    "updated_at": "2024-07-04T14:41:49Z"
+  },
+  {
+    "id": 390,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A08-R5-B1",
+    "name": "Zone A Aisle 8 Rack 5 Bin 1",
+    "created_at": "2025-01-15T04:21:01Z",
+    "updated_at": "2025-01-17T08:53:23Z"
+  },
+  {
+    "id": 391,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D08-R2-B4",
+    "name": "Zone D Aisle 8 Rack 2 Bin 4",
+    "created_at": "2024-03-28T16:23:10Z",
+    "updated_at": "2024-04-04T12:39:21Z"
+  },
+  {
+    "id": 392,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C04-R6-B6",
+    "name": "Zone C Aisle 4 Rack 6 Bin 6",
+    "created_at": "2026-06-16T01:49:17Z",
+    "updated_at": "2026-06-30T00:00:00Z"
+  },
+  {
+    "id": 393,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-C04-R3-B3",
+    "name": "Zone C Aisle 4 Rack 3 Bin 3",
+    "created_at": "2026-03-20T17:38:52Z",
+    "updated_at": "2026-03-31T12:10:52Z"
+  },
+  {
+    "id": 394,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D05-R3-B1",
+    "name": "Zone D Aisle 5 Rack 3 Bin 1",
+    "created_at": "2026-05-14T19:57:20Z",
+    "updated_at": "2026-06-12T14:17:51Z"
+  },
+  {
+    "id": 395,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B11-R6-B7",
+    "name": "Zone B Aisle 11 Rack 6 Bin 7",
+    "created_at": "2026-05-13T11:36:53Z",
+    "updated_at": "2026-06-06T14:03:17Z"
+  },
+  {
+    "id": 396,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A06-R6-B7",
+    "name": "Zone A Aisle 6 Rack 6 Bin 7",
+    "created_at": "2026-03-25T17:24:00Z",
+    "updated_at": "2026-04-10T05:45:09Z"
+  },
+  {
+    "id": 397,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D07-R2-B5",
+    "name": "Zone D Aisle 7 Rack 2 Bin 5",
+    "created_at": "2025-08-07T19:27:11Z",
+    "updated_at": "2025-08-16T18:41:15Z"
+  },
+  {
+    "id": 398,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-D04-R2-B5",
+    "name": "Zone D Aisle 4 Rack 2 Bin 5",
+    "created_at": "2024-08-12T05:49:23Z",
+    "updated_at": "2024-09-03T18:17:11Z"
+  },
+  {
+    "id": 399,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-A09-R4-B7",
+    "name": "Zone A Aisle 9 Rack 4 Bin 7",
+    "created_at": "2026-05-15T17:09:22Z",
+    "updated_at": "2026-06-10T11:38:28Z"
+  },
+  {
+    "id": 400,
+    "warehouse_id": 10,
+    "code": "BLW-EFC-B07-R2-B5",
+    "name": "Zone B Aisle 7 Rack 2 Bin 5",
+    "created_at": "2024-11-11T20:56:34Z",
+    "updated_at": "2024-11-27T22:43:37Z"
+  }
+]

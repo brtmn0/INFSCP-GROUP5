@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Single",
+    "description": "Packaging tier: Single",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-20T18:19:48Z"
+  },
+  {
+    "id": 2,
+    "name": "Multipack",
+    "description": "Packaging tier: Multipack",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-17T12:37:04Z"
+  },
+  {
+    "id": 3,
+    "name": "Bulk/Crate",
+    "description": "Packaging tier: Bulk/Crate",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-17T03:04:16Z"
+  }
+]

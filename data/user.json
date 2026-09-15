@@ -1,0 +1,470 @@
+[
+  {
+    "api_key": "d4s2a0b0a1n4a0l0y7t",
+    "app": "analytics_dashboard",
+    "endpoint_access": {
+      "warehouses": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "locations": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "transfers": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "items": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_lines": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_groups": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_types": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "suppliers": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "orders": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "clients": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "shipments": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "inventories": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      }
+    }
+  },
+  {
+    "api_key": "s8m3a9r2t7g1l4a5s0s",
+    "app": "smartglass_reader",
+    "endpoint_access": {
+      "warehouses": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "locations": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "transfers": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      },
+      "items": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_lines": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_groups": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_types": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "suppliers": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "orders": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "clients": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "shipments": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "inventories": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      }
+    }
+  },
+  {
+    "api_key": "o3r5d4e2r1p6i8c0k0e",
+    "app": "order_picker",
+    "endpoint_access": {
+      "warehouses": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "locations": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "transfers": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      },
+      "items": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_lines": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_groups": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_types": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "suppliers": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "orders": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      },
+      "clients": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "shipments": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "inventories": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      }
+    }
+  },
+  {
+    "api_key": "r2e4c6e8i0v3i5n7g9s",
+    "app": "receiving_station",
+    "endpoint_access": {
+      "warehouses": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "locations": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "transfers": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "items": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "item_lines": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "item_groups": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "item_types": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "suppliers": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "orders": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "clients": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "shipments": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "inventories": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      }
+    }
+  },
+  {
+    "api_key": "s1h3i5p7p9i2n4g6s8t",
+    "app": "shipping_station",
+    "endpoint_access": {
+      "warehouses": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "locations": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "transfers": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "items": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_lines": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_groups": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_types": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "suppliers": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "orders": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      },
+      "clients": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "shipments": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": false
+      },
+      "inventories": {
+        "get": true,
+        "post": false,
+        "put": true,
+        "delete": false
+      }
+    }
+  },
+  {
+    "api_key": "f4a5c6i7l8i9t0y1m2a3n4a5g6",
+    "app": "facility_management",
+    "endpoint_access": {
+      "warehouses": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "locations": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "transfers": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "items": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "item_lines": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "item_groups": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "item_types": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "suppliers": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "orders": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "clients": {
+        "get": true,
+        "post": true,
+        "put": true,
+        "delete": true
+      },
+      "shipments": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      },
+      "inventories": {
+        "get": true,
+        "post": false,
+        "put": false,
+        "delete": false
+      }
+    }
+  }
+]

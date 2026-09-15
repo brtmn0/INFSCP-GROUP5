@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Aardappelen, groente en fruit",
+    "description": "Jumbo assortment line: Aardappelen, groente en fruit",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-23T22:38:58Z"
+  },
+  {
+    "id": 2,
+    "name": "Bier en wijn",
+    "description": "Jumbo assortment line: Bier en wijn",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-05T19:25:32Z"
+  },
+  {
+    "id": 3,
+    "name": "Brood en gebak",
+    "description": "Jumbo assortment line: Brood en gebak",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-29T21:09:14Z"
+  },
+  {
+    "id": 4,
+    "name": "Conserven, soepen, sauzen, oliën",
+    "description": "Jumbo assortment line: Conserven, soepen, sauzen, oliën",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-06T07:51:45Z"
+  },
+  {
+    "id": 5,
+    "name": "Diepvries",
+    "description": "Jumbo assortment line: Diepvries",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-26T05:22:23Z"
+  },
+  {
+    "id": 6,
+    "name": "Frisdrank en sappen",
+    "description": "Jumbo assortment line: Frisdrank en sappen",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-08T04:03:43Z"
+  },
+  {
+    "id": 7,
+    "name": "Huishouden en dieren",
+    "description": "Jumbo assortment line: Huishouden en dieren",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-20T19:57:35Z"
+  },
+  {
+    "id": 8,
+    "name": "Koek, snoep, chocolade en chips",
+    "description": "Jumbo assortment line: Koek, snoep, chocolade en chips",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-05T07:41:27Z"
+  },
+  {
+    "id": 9,
+    "name": "Koffie en thee",
+    "description": "Jumbo assortment line: Koffie en thee",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-30T10:06:56Z"
+  },
+  {
+    "id": 10,
+    "name": "Vega en plantaardig",
+    "description": "Jumbo assortment line: Vega en plantaardig",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-29T06:03:58Z"
+  },
+  {
+    "id": 11,
+    "name": "Verse maaltijden en gemak",
+    "description": "Jumbo assortment line: Verse maaltijden en gemak",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-04T17:04:19Z"
+  },
+  {
+    "id": 12,
+    "name": "Vlees, vis en vega",
+    "description": "Jumbo assortment line: Vlees, vis en vega",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-22T19:17:56Z"
+  },
+  {
+    "id": 13,
+    "name": "Vleeswaren, kaas en tapas",
+    "description": "Jumbo assortment line: Vleeswaren, kaas en tapas",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-08T00:47:36Z"
+  },
+  {
+    "id": 14,
+    "name": "Zuivel, boter en eieren",
+    "description": "Jumbo assortment line: Zuivel, boter en eieren",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-13T04:21:58Z"
+  }
+]

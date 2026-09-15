@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Vers",
+    "description": "Temperature/handling regime: Vers",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-15T20:20:03Z"
+  },
+  {
+    "id": 2,
+    "name": "Houdbaar",
+    "description": "Temperature/handling regime: Houdbaar",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-14T08:35:01Z"
+  },
+  {
+    "id": 3,
+    "name": "Diepvries",
+    "description": "Temperature/handling regime: Diepvries",
+    "created_at": "2025-08-01T15:30:26Z",
+    "updated_at": "2025-08-16T23:31:09Z"
+  }
+]
