@@ -14,8 +14,9 @@ class WarehouseService(WarehouseServiceInterface):
     def __init__(self, warehouse_repository: WarehouseRepositoryInterface):
         self._warehouse_repository = warehouse_repository
 
-    def get_all_warehouses(self) -> list[Warehouse]:
-        warehouses = self._warehouse_repository.get_all()
+    def get_all_warehouses(self, page: int) -> list[Warehouse]:
+        offset = (page - 1) * 20
+        warehouses = self._warehouse_repository.get_all(offset, 20)
         logger.debug("Retrieved %d warehouses", len(warehouses))
         return warehouses
 
