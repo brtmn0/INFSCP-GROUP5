@@ -32,7 +32,6 @@ class WarehouseRoutes(AbstractRoute):
             methods=["GET"],
             summary="Get a warehouse by id.",
             response_description="A single warehouse requested.",
-            responses={404: {"model": ErrorResponse, "description": "Warehouse not found."}},
         )
 
         self.__router.add_api_route("/{warehouse_id}/locations", self.get_warehouse_locations, methods=["GET"])
@@ -52,7 +51,6 @@ class WarehouseRoutes(AbstractRoute):
             methods=["PUT"],
             summary="Update a warehouse.",
             response_description="The updated warehouse.",
-            responses={404: {"model": ErrorResponse, "description": "Warehouse not found."}},
         )
 
         self.__router.add_api_route(
@@ -62,7 +60,6 @@ class WarehouseRoutes(AbstractRoute):
             status_code=204,
             summary="Delete a warehouse.",
             response_description="The warehouse was deleted.",
-            responses={404: {"model": ErrorResponse, "description": "Warehouse not found."}},
         )
 
         return self.__router

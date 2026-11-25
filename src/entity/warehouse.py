@@ -10,7 +10,6 @@ from entity.base import Base
 class Warehouse(Base):
     __tablename__ = "warehouse"
 
-    id: Mapped[int] = mapped_column(primary_key=True)
     code: Mapped[str] = mapped_column(String(30))
     name: Mapped[str] = mapped_column(String(100))
     address: Mapped[str] = mapped_column(String(255))
