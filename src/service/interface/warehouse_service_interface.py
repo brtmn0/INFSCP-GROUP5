@@ -7,9 +7,12 @@ from entity.warehouse import Warehouse
 class WarehouseServiceInterface(ABC):
 
     @abstractmethod
-    def get_all_warehouses(self) -> list[Warehouse]:
+    def get_all_warehouses(self, page: int) -> list[Warehouse]:
         """
             Retrieves all the warehouses
+
+            Parameters:
+                page (int): The page number
 
             Returns:
                 warehouses list[Warehouse]: List of all the warehouses
