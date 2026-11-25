@@ -1,0 +1,4 @@
+.venv
+.idea
+.secrets
+init-db/
